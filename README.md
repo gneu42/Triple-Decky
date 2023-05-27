@@ -18,3 +18,10 @@ At this moment, there are 2 versions of Triple-Decky.
 * for the Sturdy Bunny that is build on a 2020 extrusion.
 
 
+
+
+### Triple Decky for ERCF V1.
+(./images/TD for ERCF-V1.JPG)
+
+### Triple Decky for Sturdy Bunny.
+(./images/TD for Sturdy-Bunny.JPG)
