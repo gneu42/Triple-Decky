@@ -21,4 +21,4 @@ At this moment, there are 2 versions of Triple-Decky.
 <img src="Images/TD%20for%20ERCF-V1.JPG" width="400" alt="Triple Decky for ERCF V1">
 
 ### Triple Decky for Sturdy Bunny.
-<img src="Images/TD%20for%20Sturdy-Bunny.JPG" width="400" alt="Triple Decky for STurdy Bunny">
+<img src="Images/TD%20for%20Sturdy-Bunny.JPG" width="400" alt="Triple Decky for Sturdy Bunny">
