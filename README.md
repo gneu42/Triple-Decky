@@ -17,12 +17,8 @@ At this moment, there are 2 versions of Triple-Decky.
 * for the original version of ERCF that is build with M5 all threaded rod.
 * for the Sturdy Bunny that is build on a 2020 extrusion.
 
-
-
-
 ### Triple Decky for ERCF V1.
-[Triple Decky for ERCFV1](https://github.com/gneu42/Triple-Decky/Images/TD%20for%20ERCF-V1.JPG)
 <img src="Images/TD%20for%20ERCF-V1.JPG" width="400" alt="Triple Decky for ERCF V1">
 
 ### Triple Decky for Sturdy Bunny.
-[Triple Decky for Sturdy Bunny](https://github.com/gneu42/Triple-Decky/blob/main/Images/TD%20for%20Sturdy-Bunny.JPG)
+<img src="Images/TD%20for%20Sturdy-Bunny.JPG" width="400" alt="Triple Decky for STurdy Bunny">
