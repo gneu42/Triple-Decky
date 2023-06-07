@@ -17,7 +17,7 @@
 * **You want to use the old magnetic gates.**
   * print the **Trpile_Decky_Base_RevB4_1_Magnet.stl** from the folder **Optional for old magnetic gates**.
   * print **Triple_Decky_Filament_path_RevB4_1.stl** and cut the small part of the hinge. 
-  <p><center><img src="../../../Images/Filament_path_cutout.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></center>
+  <p><center><img src="../../../Images/Filament_path_cutout.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></center><p>
   * use your original magnetic gates.
   * print the multicolor **Triple_Decky_Tag_Plates_X.stl** from the **Base_Tag_Plates** folder for the Triple_Decky_Base
   * print one of the tophat :
