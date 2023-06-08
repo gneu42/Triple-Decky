@@ -1,26 +1,21 @@
 # **Some notes on how to use the version C5**
 ## **Warning**
- **Be really careful when inserting the Gate plates or the magnetic gates in the filament path. The way it is printed can cause cracks when inserting. Be sure the cavity is clean before inserting the gate plates.**
+Version  C5 only works with Sturdy Bunny or coming soon V2.
+<p>
+At this moment, the only version available is the trap release by magnet. When the software will be available, the 3 positions servo will be released.
+<p>
+
+## For best results, be sure to use **N52 Magnets** on the encoder and the top of the filament exit<p>
+
 
 ## **What to print for Revision C ?**
 
- * **You want to use the new design without magnetic gates.**
-   * print the **Trpile_Decky_Base_RevB4_1.stl** 
-   * print **Triple_Decky_Filament_path_RevB4_1.stl**.   
-   * print the multicolor **Triple_Decky_Tag_Plates_X.stl** from the **Base_Tag_Plates** folder for the Triple_Decky_Base.
-   * print the **Tag_Gate_X.stl** from the folder **Filament_path_Tag_Gates** for the Filament path output side.
-    * print one of the tophat :
-      * **[a]Triple_Decky_RevB4_1_Tophat_integerated.stl** if you are using Springy. It may also work with original selector. It is based on number 1 Tophat locker
-      * **[a]Triple_Decky_RevB4_1_Tophat.stl** if you want to use your original tophat lockers.
-    * print the latch **[a]Triple_Decky_Latch_Beta3_1.stl**<p>
-
-* **You want to use the old magnetic gates.**
-  * print the **Trpile_Decky_Base_RevB4_1_Magnet.stl** from the folder **Optional for old magnetic gates**.
-  * print **Triple_Decky_Filament_path_RevB4_1.stl** and cut the small part of the hinge. 
-    <p><center><img src="../../../Images/Filament_path_cutout.JPG" width="400" alt="Hinge cut"></center><p>
-  * use your original magnetic gates.
+  * print the **Triple_Decky_Base_C5_3.stl** 
+  * print **Triple_Decky_Filament_Path_With_Magnet_C5_3.stl** from the folder Filament_Path_with_magnets.
   * print the multicolor **Triple_Decky_Tag_Plates_X.stl** from the **Base_Tag_Plates** folder for the Triple_Decky_Base
-  * print one of the tophat :
-    * **[a]Triple_Decky_RevB4_1_Tophat_integerated.stl** if you are using Springy. It may also work with original selector. It is based on number 1 Tophat locker
-    * **[a]Triple_Decky_RevB4_1_Tophat.stl** if you want to use your original tophat lockers.
-  * print the latch **[a]Triple_Decky_Latch_Beta3_1.stl** <p>
+  * print the tophat : **[a]Triple_Decky_Tophat_Integrated_For_Magnet_C5_3.stl**.
+  * print the latch **[a]Triple_Decky_Latch_Beta3_1.stl**
+  * print the trap of your choice from the Trap_Style folder. Experiment to find the one that gives the better holding capability.
+    *  **TD_Base_Trap_C5_Round.stl**
+    *  **TD_Base_Trap_C5_Screw.stl** (This one needs a set screw M3x2)
+    *  **TD_Base_Trap_C5_V-Shape.stl**<p>
