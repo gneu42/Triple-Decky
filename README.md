@@ -4,16 +4,16 @@
 
 Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny. Its goal is to avoid the filament to move in or out the filament block while loading or unloading another gate.
 
-To do that, the filament block consist in 2 hinged parts (decks), that are kept apart by magnets. The filament is lifted by 1mm from the bottom BMG gear.
+To do that, the filament block consist in 2 hinged parts (decks), that are kept apart by magnets. The filament is lifted by 1 mm from the bottom BMG gear.
 
 The top hat come on top of the 2nd deck and has the top BMG gear as before. 
 
 Although the current version still has the possibility to install the magnetic gate, it is normally not needed anymore.
 
 ## **In Beta testing :**
-* **Version C.** (Experimental, Coming soon)
-  *  It will have a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
-     *  with a magnet that will be pushed back by the encoder magnet
+* **Version C.** (Experimental, coming soon)
+  *  It will have a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5 mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
+     *  with a magnet that will be pushed back by the encoder magnet.
      *  by using a special tophat that will need a 3rd position of the servo to be able to move the selector. (not available yet : software in development)<p>
   * The brake part will be easily replaceable in case it breaks.
   *  The multicolor tag plates will be the same for input and output side. (Same as in version B4 Base)<p>
@@ -34,9 +34,9 @@ Although the current version still has the possibility to install the magnetic g
 
 
 *  ## For Sturdy Bunny build on a 2020 extrusion. 
-    * ### **Triple Decky for Sturdy Bunny Rev C5** (latest)
+    * ### **Triple Decky for Sturdy Bunny Rev C5 magnet release break** (latest)
       * In beta testing, only the magnet release version is available.<p>
-       <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 in"></center><p>
+       <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></center><p>
        <center><img src="Images/C5-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C5-trap.JPG" height="200" alt="C5 trap"><center>
 
 
