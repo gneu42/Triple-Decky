@@ -1,8 +1,8 @@
-# **Some notes on how to use the version B4**
+# **Some notes on how to use the version C5**
 ## **Warning**
  **Be really careful when inserting the Gate plates or the magnetic gates in the filament path. The way it is printed can cause cracks when inserting. Be sure the cavity is clean before inserting the gate plates.**
 
-## **What to print ?**
+## **What to print for Revision C ?**
 
  * **You want to use the new design without magnetic gates.**
    * print the **Trpile_Decky_Base_RevB4_1.stl** 
