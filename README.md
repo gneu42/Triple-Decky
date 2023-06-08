@@ -34,7 +34,7 @@ Although the current version still has the possibility to install the magnetic g
 
 
 *  ## For Sturdy Bunny build on a 2020 extrusion. 
-    * ### **Triple Decky for Sturdy Bunny Rev C5 magnet release break** (latest)
+    * ### **Triple Decky for Sturdy Bunny Rev C5 magnet brake release** (latest)
       * In beta testing, only the magnet release version is available.<p>
        <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></center><p>
        <center><img src="Images/C5-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C5-trap.JPG" height="200" alt="C5 trap"><center>
