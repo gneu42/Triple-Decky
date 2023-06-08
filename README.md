@@ -12,11 +12,11 @@ Although the current version still has the possibility to install the magnetic g
 
 ## **In Beta testing :**
 * **Version C.** (Experimental, Coming soon)
-  *  It will have a kind of brake to press against the filament when the gate is not selected. To release the brake it will use either :
+  *  It will have a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
      *  with a magnet that will be pushed back by the encoder magnet
      *  by using a special tophat that will need a 3rd position of the servo to be able to move the selector. (not available yet : software in development)<p>
   * The brake part will be easily replaceable in case it breaks.
-  *  The multicolor tag plates will be the same for input and output side. (Same as in version B4)<p>
+  *  The multicolor tag plates will be the same for input and output side. (Same as in version B4 Base)<p>
   *  The use of the old magnetic gates will be impossible on that version.<p>
 ## **Yet in development :**
 * **ERCF V2 :** at this moment, ERCF V2 is in development by a team of designers. Lots of things have been developed and are tested, but regarding the filament blocks, no decision have been taken on which version of Triple Decky or another type will be used.
