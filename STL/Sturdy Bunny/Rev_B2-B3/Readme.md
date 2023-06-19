@@ -4,3 +4,4 @@
 
 ## **If your printer is perfectly dialed in, DO NOT USE version B3.3, use B3.2 instead or the new B4.1 in Rev_B4 directory**
 
+Only the print orientation of the ECAS hole is different from Sturdy Bunny. It is turn 90° for better printing and match with the original orientation of V1.1 from Ette.
