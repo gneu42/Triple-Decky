@@ -11,7 +11,7 @@ The top hat come on top of the 2nd deck and has the top BMG gear as before.
 Although the current version still has the possibility to install the magnetic gate, it is normally not needed anymore.
 
 ## **In Beta testing :**
-* **Version C.** (Experimental, coming soon)
+* **Version C.** (Experimental)
   *  It will have a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5 mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
      *  with a magnet that will be pushed back by the encoder magnet.
      *  by using a special tophat that will need a 3rd position of the servo to be able to move the selector. (not available yet : software in development)<p>
@@ -30,10 +30,27 @@ Although the current version still has the possibility to install the magnetic g
 
 ## **Actual versions**
 
-### At this moment, there are 3 versions of Triple-Decky.
-
+### At this moment, there are 4 versions of Triple-Decky.
 
 *  ## For Sturdy Bunny build on a 2020 extrusion. 
+    * ### **Triple Decky for Sturdy Bunny Rev C6 magnet brake release**
+  
+      * **This is an <u>untested</u> update from Rev C5 that fixes the following issues: (use it with caution)**
+        * wall around the bearing cracks
+        * filament path output side rubbing on the encoder and get pushed down. 
+      * **It has the following new feature :**
+        * thicker wall around the bearing
+        * output face of the filament path is tilted 4° to avoid rubbing on the encoder cart
+        * new tophat to match the brake release magnet new position
+        <center><img src="Images/C6-bearing.JPG" width="250" alt="C6 bearing"> <img src="Images/C6-backside.JPG" width="250" alt="C6 output face"></center>
+
+        * **Warning:**
+          * C6_x base need to have C6_x filament path
+          * C6_x filament path need to have C6_x tophat
+          * C5_x base is compatible with C6_x filament path
+          * C5_x filament path is compatible with C6_x tophat
+                     
+    
     * ### **Triple Decky for Sturdy Bunny Rev C5 magnet brake release** (latest)
       * In beta testing, only the magnet release version is available.<p>
        <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></center><p>
