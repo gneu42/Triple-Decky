@@ -1,6 +1,7 @@
 # **Some notes on how to use the version C5 and C6**
 ## **Warning**
 Version  C5 and C6 only works with Sturdy Bunny or coming soon V2.
+If you are using Happy Hare software, you should decrease the "parking_distance" in the ercf_parameters to about 15 so the filament parks inside the trap.
 <p>
 At this moment, the only version available is the trap release by magnet. When the software will be available, the 3 positions servo will be released.
 <p>

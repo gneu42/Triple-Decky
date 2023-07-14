@@ -17,7 +17,8 @@ Although the current version still has the possibility to install the magnetic g
      *  by using a special tophat that will need a 3rd position of the servo to be able to move the selector. (not available yet : software in development)<p>
   * The brake part will be easily replaceable in case it breaks.
   *  The multicolor tag plates will be the same for input and output side. (Same as in version B4 Base)<p>
-  *  The use of the old magnetic gates will be impossible on that version.<p>
+  *  The use of the old magnetic gates will be impossible on that version.
+  *  If you are using Happy Hare software, you should decrease the "parking_distance" in the ercf_parameters to about 15 so the filament parks inside the trap.<p>
 ## **Yet in development :**
 * **ERCF V2 :** at this moment, ERCF V2 is in development by a team of designers. Lots of things have been developed and are tested, but regarding the filament blocks, no decision have been taken on which version of Triple Decky or another type will be used.
   * Mods in progress :
