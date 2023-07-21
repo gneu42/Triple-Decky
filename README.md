@@ -12,15 +12,17 @@ The tophat comes on top of the 2nd deck and has the top BMG gear as before.
 
 Although the current Rev B version still has the possibility to install the magnetic gate, it is normally not needed anymore.
 
+It will not be possible to install the magnetic gates on Rev C.
+
 **I have re-structured this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
 
 **Printing tips:**
   * Make sure your printer is well tuned.
   * All STL were tested OK with ABS and ABS+ 
   * Use voron standard print profile ( I use Andew Ellis ABS print profile).
-  * The 3 main parts are fitting togather using a kind of hinge. They should fit together without filing and with a little bit of play. 
-  * Make sure that the rectangular hole in the filament path Rev C is clean so the trap/brake can fit losely in. There should be 0.5mm clearance.
-  * For unknown reason, Super Slicer and Prusa slicer repoprts 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
+  * The 3 main parts are fitting together using a kind of hinge. They should fit together without filing and with a little bit of play. 
+  * Make sure that the rectangular hole in the filament path Rev C is clean so the trap/brake can fit loosely in. There should be 0.5mm clearance.
+  * For unknown reason, Super Slicer and Prusa slicer reports 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
   * Make sure you have "Thin wall" enable, otherwise you won't have supports. 
 
 ## **In Beta testing :**
@@ -29,7 +31,7 @@ Although the current Rev B version still has the possibility to install the magn
      *  with a magnet that will be pushed back by the encoder magnet.
      *  by using a special tophat that will need a 3rd position of the servo to be able to move the selector. (not available yet : software in development)<p>
   * The brake part will be easily replaceable in case it breaks.
-  *  The multicolor tag plates will be the same for input and output side. (Same as in version B4 Base)<p>
+  *  The multi-color tag plates will be the same for input and output side. (Same as in version B4 Base)<p>
   *  The use of the old magnetic gates will be impossible on that version.
   *  If you are using Happy Hare software, you should decrease the "parking_distance" in the ercf_parameters to about 15 so the filament parks inside the trap.
   *  It is normal that the filament does not pass the trap when inserted manually. When the gate will be selected, Happy Hare will load it without problem. If you want to lock it inside the trap, than you need to push down the exit side of the filament path with your finger and insert the filament about 5 mm further.<p>
@@ -77,7 +79,7 @@ Although the current Rev B version still has the possibility to install the magn
           * The taps are the same for both Rev C versions (Traps folder).
           * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integerated_Universal_Mag&3PS_C6_0.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!**
           * If this is your first use of Rev C 3PS, then it is better to use the dedicated tophat for 3PS ([a]Triple_Decky_Tophat-integerated_3PS_C6_2.stl).
-          * Optionaly you may want to use the special servo arm with rounded edges (Servo Arm MG90S_for_3PS.stl) (currently only available for MG90S).
+          * Optionally you may want to use the special servo arm with rounded edges (Servo Arm MG90S_for_3PS.stl) (currently only available for MG90S).
           * **Software parameters** 
             * Add "servo_move_angle: (move position angle)" in mmu_parameters.cfg
               * In my case I have :
