@@ -31,7 +31,8 @@ Although the current Rev B version still has the possibility to install the magn
   * The brake part will be easily replaceable in case it breaks.
   *  The multicolor tag plates will be the same for input and output side. (Same as in version B4 Base)<p>
   *  The use of the old magnetic gates will be impossible on that version.
-  *  If you are using Happy Hare software, you should decrease the "parking_distance" in the ercf_parameters to about 15 so the filament parks inside the trap.<p>
+  *  If you are using Happy Hare software, you should decrease the "parking_distance" in the ercf_parameters to about 15 so the filament parks inside the trap.
+  *  It is normal that the filament does not pass the trap when inserted manually. When the gate will be selected, Happy Hare will load it without problem. If you want to lock it inside the trap, than you need to push down the exit side of the filament path with your finger and insert the filament about 5 mm further.<p>
 ## **Yet in development :**
 * **ERCF V2 :** at this moment, ERCF V2 is in development by a team of designers. Lots of things have been developed and are tested, but regarding the filament blocks, no decision have been taken on which version of Triple Decky or another type will be used.
   * Mods in progress :
@@ -49,7 +50,8 @@ Although the current Rev B version still has the possibility to install the magn
 *  ## For Sturdy Bunny build on a 2020 extrusion. 
     * ### **Triple Decky for Sturdy Bunny Rev C6 magnet brake release or 3 positions servo.**
   
-      * **This is an update from Rev C5 that fixes the following issues: (use it with caution)**
+      
+      * **This is an update from Rev C5 that fixes the following issues:**
         * wall around the bearing cracks
         * filament path output side rubbing on the encoder and get pushed down. 
       * **It has the following new feature :**
@@ -92,7 +94,10 @@ Although the current Rev B version still has the possibility to install the magn
 
 
     * ### **Triple Decky for Sturdy Bunny Rev C6 magnet brake release** 
-      * In beta testing.
+      * This version uses the encoder magnet to push the filament path down so the filament is free to move when the gate is selected.
+      * When the gate is not selected, the filament will be hold still by the trap.
+      * You should adjust the parking_distance so the filament is parked in the trap.
+  
       
 
        <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></center><p>
