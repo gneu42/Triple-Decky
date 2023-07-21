@@ -4,7 +4,7 @@ Version  C5 and C6 only works with Sturdy Bunny or coming soon V2.
 
 **For version C, the screw on top of the latch is not needed. You can also use the original latch from the Sturdy Bunny github.**
 
-## <center>For best results, be sure to use **N52 Magnets** on the encoder and the top of the filament exit. Secure the magnets in the encoder with a drop of glue, otherwise they will pop out when they are above the gate magnet.</center>
+**For best results, be sure to use **N52 Magnets** on the encoder and the top of the filament exit. Secure the magnets in the encoder with a drop of glue, otherwise they will pop out when they are above the gate magnet.**
 
 
 ## **What to print for Revision C5 ?**
