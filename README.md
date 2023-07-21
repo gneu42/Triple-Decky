@@ -12,7 +12,7 @@ The tophat comes on top of the 2nd deck and has the top BMG gear as before.
 
 Although the current Rev B version still has the possibility to install the magnetic gate, it is normally not needed anymore.
 
-**I have re-structure this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
+**I have re-structured this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
 
 **Printing tips:**
   * Make sure your printer is well tuned.
