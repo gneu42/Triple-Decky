@@ -98,9 +98,7 @@ It will not be possible to install the magnetic gates on Rev C.
     * ### **Triple Decky for Sturdy Bunny Rev C6 magnet brake release** 
       * This version uses the encoder magnet to push the filament path down so the filament is free to move when the gate is selected.
       * When the gate is not selected, the filament will be hold still by the trap.
-      * You should adjust the parking_distance so the filament is parked in the trap.
-  
-      
+            
 
        <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></center><p>
        <center><img src="Images/C5-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C5-trap.JPG" height="200" alt="C5 trap"><center>
