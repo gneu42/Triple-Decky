@@ -73,7 +73,7 @@ It will not be possible to install the magnetic gates on Rev C.
       
       
     * ### **Triple Decky for Sturdy Bunny Rev C6 for 3 positions servo brake release. "3PS"**
-      * #  **<u><span style="color:red">IMPORTANT NOTE ABOUT THE 3PS VERSION.</span></u>**
+      * #  **<u>IMPORTANT NOTE ABOUT THE 3PS VERSION.</u>**
           * **If you want to test the C6 with 3 positions servo YOU HAVE TO install the latest Happy-Hare software (HHv2) that support the servo 3rd position. Otherwise IT WILL NOT WORK. It is in beta for a few people at this moment. If you are one of those beta tester, you can try this Triple Decky C6 3PS. If not, wait until it is fully released. The actual KlipperScreen for Happy Hare needs also a special updated version.**
           * The base is the same for both Rev C versions (Triple_Decky_Base_C6_0.stl).
           * The taps are the same for both Rev C versions (Traps folder).
