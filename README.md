@@ -14,6 +14,15 @@ Although the current Rev B version still has the possibility to install the magn
 
 **I have re-structure this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
 
+**Printing tips:**
+  * Make sure your printer is well tuned.
+  * All STL were tested OK with ABS and ABS+ 
+  * Use voron standard print profile ( I use Andew Ellis ABS print profile).
+  * The 3 main parts are fitting togather using a kind of hinge. They should fit together without filing and with a little bit of play. 
+  * Make sure that the rectangular hole in the filament path Rev C is clean so the trap/brake can fit losely in. There should be 0.5mm clearance.
+  * For unknown reason, Super Slicer and Prusa slicer repoprts 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
+  * Make sure you have "Thin wall" enable, otherwise you won't have supports. 
+
 ## **In Beta testing :**
 * **Version C.** 
   *  It will have a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5 mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
