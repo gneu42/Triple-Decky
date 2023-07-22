@@ -1,4 +1,4 @@
-# **$\textcolor{blue}{Triple-Decky}$**
+# **Triple-Decky**
 
 ## New triple deck filament block for ERCF V1, Sturdy Bunny and ERCF V2.
 
