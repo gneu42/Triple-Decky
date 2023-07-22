@@ -93,7 +93,7 @@ It will not be possible to install the magnetic gates on Rev C.
       
 
        <center><img src="Images/C6-3PS-in.JPG" width="250" alt="C5 in"> <img src="Images/C6-3PS-out.JPG" width="250" alt="C5 out"></center><p>
-       <center><img src="Images/C6-3PS-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C6-3PS-trap.JPG" height="200" alt="C5 trap"><center>
+       <center><img src="Images/C6-3PS-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C6-3PS-trap.JPG" height="200" alt="C5 trap"></center>
 
 
     * ### **Triple Decky for Sturdy Bunny Rev C6 magnet brake release** 
@@ -102,7 +102,7 @@ It will not be possible to install the magnetic gates on Rev C.
             
 
        <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></center><p>
-       <center><img src="Images/C5-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C5-trap.JPG" height="200" alt="C5 trap"><center>
+       <center><img src="Images/C5-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C5-trap.JPG" height="200" alt="C5 trap"></center>
 
 
     * ### **Triple Decky for Sturdy Bunny Rev. B (previously B4)**
