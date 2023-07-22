@@ -108,9 +108,9 @@ It will not be possible to install the magnetic gates on Rev C.
            
 ### **Triple Decky for 3 positions servo brake release.**
   
-    * This version uses the servo to push the filament path down so the filament is free to move when the gate is selected.
+   * This version uses the servo to push the filament path down so the filament is free to move when the gate is selected.
    * When the gate is not selected, the filament will be hold still by the trap.
-   * 
+    
       <center><img src="Images/C6-3PS-in.JPG" width="250" alt="C5 in"> <img src="Images/C6-3PS-out.JPG" width="250" alt="C5 out"></center><p>
       <center><img src="Images/C6-3PS-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C6-3PS-trap.JPG" height="200" alt="C5 trap"></center>
   
@@ -137,12 +137,11 @@ It will not be possible to install the magnetic gates on Rev C.
    * optional base to use the old magnetic gates. In that case, the small part of the hinge of the filament path must be cut at the mark.
    * The latch has an optional set screw to apply a little bit of friction on the filament. This help the filament to stay still in case of vibrations.<p>
   
-  <center><img src="Images/B4-in.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-out.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-side.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></center>
+      <center><img src="Images/B4-in.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-out.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-side.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></center>
            
  
 ### For ERCF V1
-   This is for the original design that is build with M5 all threaded rod. This version will not be developed further because almost all users / builders are moving to Sturdy Bunny, or the coming (soon) ERCF V2. 
-   <p>
-        <center><img src="Images/TD%20for%20ERCF-V1.JPG" width="250" alt="Triple Decky for ERCF V1"></center>
+   This is for the original design that is build with M5 all threaded rod. This version will not be developed further because almost all users / builders are moving to Sturdy Bunny, or the coming (soon) ERCF V2.<p> 
+     <center><img src="Images/TD%20for%20ERCF-V1.JPG" width="250" alt="Triple Decky for ERCF V1"></center>
 
   
