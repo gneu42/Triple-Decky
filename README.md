@@ -111,7 +111,7 @@ It will not be possible to install the magnetic gates on Rev C.
     * This version uses the servo to push the filament path down so the filament is free to move when the gate is selected.
    * When the gate is not selected, the filament will be hold still by the trap.
    * 
-      <center><img src="Images/C6-3PS-in.JPG" width="250" alt="C5 in"> <img src="Images/C6-3PS-out.JPG" width="250" alt="C5 out"></center>
+      <center><img src="Images/C6-3PS-in.JPG" width="250" alt="C5 in"> <img src="Images/C6-3PS-out.JPG" width="250" alt="C5 out"></center><p>
       <center><img src="Images/C6-3PS-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C6-3PS-trap.JPG" height="200" alt="C5 trap"></center>
   
 
