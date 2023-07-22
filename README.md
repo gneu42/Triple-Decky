@@ -19,10 +19,10 @@ It will not be possible to install the magnetic gates on Rev C.
 ## Summary
 * **[Printing Tips](#printing-tips)**
 * **[Cleaning tips](#cleaning-tips)**
-* **[New Revision C for 3 positions servo "3PS"](#triple-decky-for-3-positions-servo-brake-release)**
+* **[New Revision C for 3 positions servo "3PS" (Strudy Bunny & ERCF V2)](#triple-decky-for-3-positions-servo-brake-release)**
   * **[Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)**
-* **[Revision C for magnet release brake](#triple-decky-for-magnet-brake-release)**
-* **[Revision B](#triple-decky-rev-b)**
+* **[Revision C for magnet release brake (Strudy Bunny & ERCF V2)](#triple-decky-for-magnet-brake-release)**
+* **[Revision B (Strudy Bunny & ERCF V2)](#triple-decky-rev-b)**
 * **[For ERCF 1.1](#for-ercf-v1)**
  
 ### **In Beta testing:**
@@ -83,7 +83,7 @@ It will not be possible to install the magnetic gates on Rev C.
   * There should be very little part cleaning necessary
     * Using a 2mm drill bit, clean the filament path
     * using a needle file, clean the rectangular hole where the trap is going in on the filament path
-    * The trap part should have a thickness of 3.05mm, use a file to make it <= 3.5mm or tune your first layer 
+    * The trap part should have a thickness of 3.05mm, use a file to make it <= 3.05mm or tune your first layer 
 
 
 
