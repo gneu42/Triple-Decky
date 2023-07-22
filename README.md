@@ -4,7 +4,7 @@
 
 ## I add the Rev C for 3 positions servo STLs. Make sure to read the note below first if you want to use it !!!
 
-[Major feature](#Major-features)
+[Major feature](#major-features)
 
 Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny. Its goal is to avoid the filament to move in or out the filament block while loading or unloading another gate.
 
@@ -18,7 +18,7 @@ It will not be possible to install the magnetic gates on Rev C.
 
 **I have re-structured this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
 
-## Major features:
+## Major features
  
 **Printing tips:**
   * Make sure your printer is well tuned.
