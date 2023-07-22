@@ -6,6 +6,7 @@
 
 * [Printing Tips](#printing-tips)
 * [Actual versions](#actual-versions)
+* [Important note about C6 3PS](#important-note)
 
 Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny. Its goal is to avoid the filament to move in or out the filament block while loading or unloading another gate.
 
