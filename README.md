@@ -1,23 +1,33 @@
 # **Triple-Decky**
 
-## New triple deck filament block for ERCF V1, Sturdy Bunny and ERCF V2.
+## Filament block with  triple decks for ERCF V1/V1.1, Sturdy Bunny and ERCF V2.
 
 ## New : Rev C for 3 positions servo STLs. Make sure to read the [note below](#important-note-about-the-3ps-version) first if you want to use it !!!
 
+Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny. Its goal is to avoid the filament to move in or out the filament block while loading or unloading another gate.
+
+To do that, the filament block consist in 2 hinged parts (decks), that are kept apart by magnets. The filament is lifted by 1 mm from the bottom BMG gear.
+
+The tophat comes on top of the 2nd deck and has the top BMG gear as before. 
+
+Although the current Rev B version still has the possibility to install the magnetic gate, it is normally not needed anymore.
+
+It will not be possible to install the magnetic gates on Rev C.
+
 ## Summary
-* [Printing Tips](#printing-tips)
-* [Cleaning tips](#cleaning-tips)
-* [New Revision C for 3 positions servo "3PS"](#triple-decky-for-3-positions-servo-brake-release)
-  * [Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)
-* [Revision C for magnet release brake](#triple-decky-for-magnet-brake-release)
-* [Revision B](#triple-decky-rev-b)
-* [For ERCF 1.1](#for-ercf-v1)
+* **[Printing Tips](#printing-tips)**
+* **[Cleaning tips](#cleaning-tips)**
+* **[New Revision C for 3 positions servo "3PS"](#triple-decky-for-3-positions-servo-brake-release)**
+  * **[Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)**
+* **[Revision C for magnet release brake](#triple-decky-for-magnet-brake-release)**
+* **[Revision B](#triple-decky-rev-b)**
+* **[For ERCF 1.1](#for-ercf-v1)**
  
 ### **In Beta testing:**
 * **Version C.** 
-  *  It will have a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5 mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
+  *  It has a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5 mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
      *  with a magnet that will be pushed back by the encoder magnet.
-     *  by using a special tophat that will need a 3rd position of the servo to be able to move the selector. (not available yet : software in development)<p>
+     *  by using a special tophat that will need a 3rd position of the servo to be able to move the selector. (software in development)<p>
   * The brake part will be easily replaceable in case it breaks.
   *  The multi-color tag plates will be the same for input and output side. (Same as in version B4 Base)<p>
   *  The use of the old magnetic gates will be impossible on that version.
@@ -48,15 +58,7 @@
          * Change the "encoder_parking_distance:" in mmu_parameters.cfg so the filament parks in the trap. (for me I change it to 15, it was 23) 
             <p>
 
-Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny. Its goal is to avoid the filament to move in or out the filament block while loading or unloading another gate.
 
-To do that, the filament block consist in 2 hinged parts (decks), that are kept apart by magnets. The filament is lifted by 1 mm from the bottom BMG gear.
-
-The tophat comes on top of the 2nd deck and has the top BMG gear as before. 
-
-Although the current Rev B version still has the possibility to install the magnetic gate, it is normally not needed anymore.
-
-It will not be possible to install the magnetic gates on Rev C.
 
 
 
@@ -96,6 +98,7 @@ It will not be possible to install the magnetic gates on Rev C.
    * thicker wall around the bearing
    * output face of the filament path is tilted 4° to avoid rubbing on the encoder cart
    * new tophat to match the brake release magnet new position
+
         <center><img src="Images/C6-bearing.JPG" width="250" alt="C6 bearing"> <img src="Images/C6-backside.JPG" width="250" alt="C6 output face"></center>
 
    * **Warning:**
@@ -112,7 +115,7 @@ It will not be possible to install the magnetic gates on Rev C.
    * When the gate is not selected, the filament will be hold still by the trap.
     
       <center><img src="Images/C6-3PS-in.JPG" width="250" alt="C5 in"> <img src="Images/C6-3PS-out.JPG" width="250" alt="C5 out"></center><p>
-      <center><img src="Images/C6-3PS-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C6-3PS-trap.JPG" height="200" alt="C5 trap"></center>
+      <center><img src="Images/C6-3PS-cut.JPG" width="250" alt="C5 cutout"> <img src="Images/C6-3PS-trap.JPG" width="250" alt="C5 trap"></center>
   
 
  [Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)
@@ -124,7 +127,7 @@ It will not be possible to install the magnetic gates on Rev C.
             
 
        <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></center><p>
-       <center><img src="Images/C5-cut.JPG" height="200" alt="C5 cutout"> <img src="Images/C5-trap.JPG" height="200" alt="C5 trap"></center>
+       <center><img src="Images/C5-cut.JPG" width="250" alt="C5 cutout"> <img src="Images/C5-trap.JPG" width="250" alt="C5 trap"></center>
 
 
 ### **Triple Decky Rev B**
