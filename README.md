@@ -8,7 +8,9 @@ Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny
 
 To do that, the filament block consist in 2 hinged parts (decks), that are kept apart by magnets. The filament is lifted by 1 mm from the bottom BMG gear.
 
-The tophat comes on top of the 2nd deck and has the top BMG gear as before. 
+The tophat comes on top of the 2nd deck and has the top BMG gear as before.
+
+An integrated tophat based on number 1 tophat locker to be used with Springy [from Moggieuk](https://github.com/moggieuk/ERCF-Springy/tree/main) on Rev B and C
 
 Although the current Rev B version still has the possibility to install the magnetic gate, it is normally not needed anymore.
 
@@ -113,6 +115,7 @@ It will not be possible to install the magnetic gates on Rev C.
   
    * This version uses the servo to push the filament path down so the filament is free to move when the gate is selected.
    * When the gate is not selected, the filament will be hold still by the trap.
+   *  New integrated tophat based on number 1 tophat locker to be used with Springy [from Moggieuk](https://github.com/moggieuk/ERCF-Springy/tree/main) 
     
       <center><img src="Images/C6-3PS-in.JPG" width="250" alt="C5 in"> <img src="Images/C6-3PS-out.JPG" width="250" alt="C5 out"></center><p>
       <center><img src="Images/C6-3PS-cut.JPG" width="250" alt="C5 cutout"> <img src="Images/C6-3PS-trap.JPG" width="250" alt="C5 trap"></center>
@@ -124,6 +127,7 @@ It will not be possible to install the magnetic gates on Rev C.
 
    * This version uses the encoder magnet to push the filament path down so the filament is free to move when the gate is selected.
    * When the gate is not selected, the filament will be hold still by the trap.
+  *  New integrated tophat based on number 1 tophat locker to be used with Springy [from Moggieuk](https://github.com/moggieuk/ERCF-Springy/tree/main)
             
 
        <center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></center><p>
