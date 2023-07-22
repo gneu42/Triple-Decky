@@ -6,8 +6,9 @@
 
 * [Printing Tips](#printing-tips)
 * [Actual versions](#actual-versions)
-* [Version C](#-version-c)
-* [Important note about C6 3PS](#------important-note)
+* [In Beta testing](#in-beta-testing)
+* [Important note about C 3PS](#important-note-about-the-3ps-version)
+
 
 Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny. Its goal is to avoid the filament to move in or out the filament block while loading or unloading another gate.
 
@@ -32,7 +33,7 @@ It will not be possible to install the magnetic gates on Rev C.
   * For unknown reason, Super Slicer and Prusa slicer reports 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
   * Make sure you have "Thin wall" enable, otherwise you won't have supports. 
 
-## **In Beta testing :**
+### **In Beta testing :**
 * **Version C.** 
   *  It will have a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5 mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
      *  with a magnet that will be pushed back by the encoder magnet.
@@ -78,23 +79,22 @@ It will not be possible to install the magnetic gates on Rev C.
       <p>
            
            
-    * ### **Triple Decky for Sturdy Bunny Rev C6 for 3 positions servo brake release. "3PS"**
+    * ### **Triple Decky for Sturdy Bunny Rev C for 3 positions servo brake release. "3PS"**
   
-        *  #  **<u>IMPORTANT NOTE ABOUT THE 3PS VERSION.</u>**
-  
-             * **If you want to test the C6 with 3 positions servo YOU HAVE TO install the latest Happy-Hare software (HHv2) that support the servo 3rd position. Otherwise IT WILL NOT WORK. It is in beta for a few people at this moment. If you are one of those beta tester, you can try this Triple Decky C6 3PS. If not, wait until it is fully released. The actual KlipperScreen for Happy Hare needs also a special updated version.**
-             * The base is the same for both Rev C versions (Triple_Decky_Base_C6_0.stl).
-             * The taps are the same for both Rev C versions (Traps folder).
-             * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integerated_Universal_Mag&3PS_C6_0.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!**
-             * If this is your first use of Rev C 3PS, then it is better to use the dedicated tophat for 3PS ([a]Triple_Decky_Tophat-integerated_3PS_C6_2.stl).
-             * Optionally you may want to use the special servo arm with rounded edges (Servo Arm MG90S_for_3PS.stl) (currently only available for MG90S).
-             * **Software parameters** 
-               * Add "servo_move_angle: (move position angle)" in mmu_parameters.cfg
-                 * In my case I have :
-                  * servo_move_angle: 45
-                  * servo_up_angle: 24
-                  * servo_down_angle: 115
-               * Change the "encoder_parking_distance:" in mmu_parameters.cfg so the filament parks in the trap. (for me I change it to 15, it was 23) 
+#  **IMPORTANT NOTE ABOUT THE 3PS VERSION.**
+   *  **If you want to test the C6 with 3 positions servo YOU HAVE TO install the latest Happy-Hare software (HHv2) that support the servo 3rd position. Otherwise IT WILL NOT WORK. It is in beta for a few people at this moment. If you are one of those beta tester, you can try this Triple Decky C6 3PS. If not, wait until it is fully released. The actual KlipperScreen for Happy Hare needs also a special updated version.**
+   * The base is the same for both Rev C versions (Triple_Decky_Base_C6_0.stl).
+   * The taps are the same for both Rev C versions (Traps folder).
+   * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integerated_Universal_Mag&3PS_C6_0.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!**
+   * If this is your first use of Rev C 3PS, then it is better to use the dedicated tophat for 3PS ([a]Triple_Decky_Tophat-integerated_3PS_C6_2.stl).
+   * Optionally you may want to use the special servo arm with rounded edges (Servo Arm MG90S_for_3PS.stl) (currently only available for MG90S).
+   * **Software parameters** 
+     * Add "servo_move_angle: (move position angle)" in mmu_parameters.cfg
+       * In my case I have :
+         * servo_move_angle: 45
+         * servo_up_angle: 24
+         * servo_down_angle: 115
+         * Change the "encoder_parking_distance:" in mmu_parameters.cfg so the filament parks in the trap. (for me I change it to 15, it was 23) 
             <p>
       
       
