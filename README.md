@@ -4,6 +4,8 @@
 
 ## I add the Rev C for 3 positions servo STLs. Make sure to read the note below first if you want to use it !!!
 
+[KlipperScreen for Happy Hare](#---klipperscreen-happy-hare-edition)
+
 Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny. Its goal is to avoid the filament to move in or out the filament block while loading or unloading another gate.
 
 To do that, the filament block consist in 2 hinged parts (decks), that are kept apart by magnets. The filament is lifted by 1 mm from the bottom BMG gear.
@@ -15,6 +17,8 @@ Although the current Rev B version still has the possibility to install the magn
 It will not be possible to install the magnetic gates on Rev C.
 
 **I have re-structured this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
+
+
 
 **Printing tips:**
   * Make sure your printer is well tuned.
@@ -130,3 +134,4 @@ It will not be possible to install the magnetic gates on Rev C.
 
 
    
+KlipperScreen for Happy Hare
