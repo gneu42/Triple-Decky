@@ -10,7 +10,7 @@
 * [New Revision C for 3 positions servo "3PS"](#triple-decky-for-3-positions-servo-brake-release)
   * [Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)
 * [Revision C for magnet release brake](#triple-decky-for-magnet-brake-release)
-* [Revision B](#triple-decky-revb)
+* [Revision B](#triple-decky-rev-b)
 * [For ERCF 1.1](#for-ercf-v1)
  
 ### **In Beta testing:**
@@ -140,7 +140,8 @@ It will not be possible to install the magnetic gates on Rev C.
       <center><img src="Images/B4-in.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-out.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-side.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></center>
            
  
-### For ERCF V1
+### **For ERCF V1**
+
    * This is for the original design that is build with M5 all threaded rod. This version will not be developed further because almost all users / builders are moving to Sturdy Bunny, or the coming (soon) ERCF V2.<p>
    
       <center><img src="Images/TD%20for%20ERCF-V1.JPG" width="250" alt="Triple Decky for ERCF V1"></center>
