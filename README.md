@@ -18,7 +18,7 @@ It will not be possible to install the magnetic gates on Rev C.
 
 **I have re-structured this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
 
-## Major features
+
  
 **Printing tips:**
   * Make sure your printer is well tuned.
@@ -134,4 +134,4 @@ It will not be possible to install the magnetic gates on Rev C.
 
 
    
-KlipperScreen for Happy Hare
+## Major features
