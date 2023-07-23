@@ -48,7 +48,7 @@ It will not be possible to install the magnetic gates on Rev C.
     * and much more...
    
 #  **IMPORTANT NOTE ABOUT THE 3PS VERSION.**
-   *  **If you want to test the C6 with 3 positions servo YOU HAVE TO install the latest Happy-Hare software (HHv2) that support the servo 3rd position. Otherwise IT WILL NOT WORK. It is in beta for a few people at this moment. If you are one of those beta tester, you can try this Triple Decky C6 3PS. If not, wait until it is fully released. The actual KlipperScreen for Happy Hare needs also a special updated version.**
+   *  **If you want to test the C6 with 3 positions servo YOU HAVE TO have access to the latest Happy-Hare software (HHv2) that support the servo 3rd position. Otherwise IT WILL NOT WORK. It is in beta for a few people at this moment. If you are one of those beta tester, you can try this Triple Decky C6 3PS. <br>IF NOT, WAIT UNTIL IT IS FULLY RELEASED.<br> The actual KlipperScreen for Happy Hare needs also a special updated version.**
    * The base is the same for both Rev C versions (Triple_Decky_Base_C6_0.stl).
    * The taps are the same for both Rev C versions (Traps folder).
    * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integrated_Universal_Mag&3PS_C6_0.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!**
