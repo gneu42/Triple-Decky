@@ -105,7 +105,7 @@ It will not be possible to install the magnetic gates on Rev C.
     
     * 4. Press firmly the filament path into the base. It snap into place easily.
     
-     <center><img src="Images/C6-snap2.JPG" width="250" alt="C6 bearing"></center> 
+      <center><img src="Images/C6-snap2.JPG" width="250" alt="C6 bearing"></center> 
 
 ### At this moment, there  4 versions of Triple-Decky.
 
