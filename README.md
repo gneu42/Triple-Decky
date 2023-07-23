@@ -87,19 +87,19 @@ It will not be possible to install the magnetic gates on Rev C.
     * Using a 2mm drill bit, clean the filament path
     * using a needle file, clean the rectangular hole where the trap is going in on the filament path
     * The trap part should have a thickness of 3.05mm, use a file to make it <= 3.05mm or tune your first layer.
-    * On the screw trap part you need to make sure that there are no plastic between the thrad of the set screw and the filament. Use a sharp x-acto knive to open the space between the 2 holes.
+    * On the screw trap part you need to make sure that there are no plastic between the thread of the set screw and the filament. Use a sharp x-acto knive to open the space between the 2 holes.
    
     <center><img src="Images/C-trap.JPG" width="250" alt="C6 bearing"></center>
     
     * On Rev C with magnet brake release, make sure the hole for the back magnet is clean, the magnet should go down against the bottom of the hole.   
 
 #### **Assembling tips:**
-  * Rev B is self explanatory. The 3 parts goes together by sliding the tang into the correponding hole to make the hinges.
+  * Rev B is self explanatory. The 3 parts goes together by sliding the tangs into the correponding cavities that makes the hinges.
   * Rev C need a bit more attention to assemble the fiklament path on the base.
     * 1. Insert the magnet into the middle holes of the base and the filament path. The magnet must repell each other.
-      * 1.1 Optionally, you can use another set of magnet into the side holes if needed. In that case, the screw will be unaccessible without disassembling the parts
+      * Optionally, you can use another set of magnet into the side holes if needed. In that case, the screw will be unaccessible without disassembling the parts
     * 2. Insert the trap into the female dovetail.
-      * 2.1 If you use the screw trap, insert the screw at a slight angle. The 2 holes are angled by about 2°
+      * If you use the screw trap, insert the screw at a slight angle. The 2 holes are angled by about 2°
        
       <center><img src="Images/C-trap-angle.JPG" width="250" alt="C6 bearing"></center>
 
