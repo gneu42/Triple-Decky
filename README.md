@@ -2,6 +2,17 @@
 
 ## Filament block with  triple decks for ERCF V1/V1.1, Sturdy Bunny and ERCF V2.
 
+
+## Summary
+* **[Printing Tips](#printing-tips)**
+* **[Cleaning tips](#cleaning-tips)**
+* **[Assembling tips](#assembling-tips)**
+* **[New Revision C for 3 positions servo "3PS" (Strudy Bunny & ERCF V2)](#triple-decky-for-3-positions-servo-brake-release)**
+  * **[Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)**
+* **[Revision C for magnet release brake (Strudy Bunny & ERCF V2)](#triple-decky-for-magnet-brake-release)**
+* **[Revision B (Strudy Bunny & ERCF V2)](#triple-decky-rev-b)**
+* **[For ERCF 1.1](#for-ercf-v1)**
+
 ## New : Rev C for 3 positions servo STLs. Make sure to read the [note below](#important-note-about-the-3ps-version) first if you want to use it !!!
 
 Triple Decky is a replacement for the filament block on ERCF V1 and Sturdy Bunny. Its goal is to avoid the filament to move in or out the filament block while loading or unloading another gate.
@@ -16,14 +27,6 @@ Although the current Rev B version still has the possibility to install the magn
 
 It will not be possible to install the magnetic gates on Rev C.
 
-## Summary
-* **[Printing Tips](#printing-tips)**
-* **[Cleaning tips](#cleaning-tips)**
-* **[New Revision C for 3 positions servo "3PS" (Strudy Bunny & ERCF V2)](#triple-decky-for-3-positions-servo-brake-release)**
-  * **[Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)**
-* **[Revision C for magnet release brake (Strudy Bunny & ERCF V2)](#triple-decky-for-magnet-brake-release)**
-* **[Revision B (Strudy Bunny & ERCF V2)](#triple-decky-rev-b)**
-* **[For ERCF 1.1](#for-ercf-v1)**
  
 ### **In Beta testing:**
 * **Version C.** 
@@ -83,13 +86,22 @@ It will not be possible to install the magnetic gates on Rev C.
   * There should be very little part cleaning necessary
     * Using a 2mm drill bit, clean the filament path
     * using a needle file, clean the rectangular hole where the trap is going in on the filament path
-    * The trap part should have a thickness of 3.05mm, use a file to make it <= 3.05mm or tune your first layer 
+    * The trap part should have a thickness of 3.05mm, use a file to make it <= 3.05mm or tune your first layer.
+    * On the screw trap part you need to make sure that there are no plastic between the thrad of the set screw and the filament. Use a sharp x-acto knive to open the space between the 2 holes.<center><img src="Images/C-trap.JPG" width="250" alt="C6 bearing"></center>
+    * On Rev C with magnet brake release, make sure the the hole for the back magnet is clean, the magnet should go down against the bottom of the hole.   
 
+#### **Assembling tips:**
+  * Rev B is self explainatory. The 3 parts goes together by sliding the tang into the correponding hole to make the hinges.
+  * Rev C need a bit more attention to assemble the fiklament path on the base.
+    * 1. Insert the magnet into the middle holes of the base and the filament path. The magnet must repell each other.
+      * 1.1 Optionally, you can use another set of magnet into the side holes if needed. In that case, the screw will be unaccessible without disassembling the parts
+    * 2. Insert the trap into the female dovetail.
+    * 3. Align the filament path above the base so they are parrallel and the top of the brake (trap) is "almost" inside his corresponding hole in the filament path and the tang of the hinge is just above the cavity of the base. <center><img src="Images/C6-snap.JPG" width="250" alt="C6 bearing"></center>
+    * 4. Press firmly the filament path into the base. It snap into place easily.<center><img src="Images/C6-snap2.JPG" width="250" alt="C6 bearing"></center> 
 
+### At this moment, there  4 versions of Triple-Decky.
 
-### At this moment, there are 4 versions of Triple-Decky.
-
-* ## For Sturdy Bunny build on a 2020 extrusion. 
+## For Sturdy Bunny build on a 2020 extrusion. 
 ### **Triple Decky for Sturdy Bunny Rev C6 magnet brake release or 3 positions servo.**
   
       
@@ -147,7 +159,7 @@ It will not be possible to install the magnetic gates on Rev C.
       <center><img src="Images/B4-in.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-out.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-side.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></center>
            
  
-### **For ERCF V1**
+## **For ERCF V1**
 
    * This is for the original design that is build with M5 all threaded rod. This version will not be developed further because almost all users / builders are moving to Sturdy Bunny, or the coming (soon) ERCF V2.<p>
    
