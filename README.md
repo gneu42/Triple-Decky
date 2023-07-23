@@ -51,8 +51,8 @@ It will not be possible to install the magnetic gates on Rev C.
    *  **If you want to test the C6 with 3 positions servo YOU HAVE TO install the latest Happy-Hare software (HHv2) that support the servo 3rd position. Otherwise IT WILL NOT WORK. It is in beta for a few people at this moment. If you are one of those beta tester, you can try this Triple Decky C6 3PS. If not, wait until it is fully released. The actual KlipperScreen for Happy Hare needs also a special updated version.**
    * The base is the same for both Rev C versions (Triple_Decky_Base_C6_0.stl).
    * The taps are the same for both Rev C versions (Traps folder).
-   * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integerated_Universal_Mag&3PS_C6_0.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!**
-   * If this is your first use of Rev C 3PS, then it is better to use the dedicated tophat for 3PS ([a]Triple_Decky_Tophat-integerated_3PS_C6_2.stl).
+   * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integrated_Universal_Mag&3PS_C6_0.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!**
+   * If this is your first use of Rev C 3PS, then it is better to use the dedicated tophat for 3PS ([a]Triple_Decky_Tophat-integrated_3PS_C6_2.stl).
    * Optionally you may want to use the special servo arm with rounded edges (Servo Arm MG90S_for_3PS.stl) (currently only available for MG90S).
    * **Software parameters** 
      * Add "servo_move_angle: (move position angle)" in mmu_parameters.cfg
@@ -91,10 +91,10 @@ It will not be possible to install the magnetic gates on Rev C.
    
     <center><img src="Images/C-trap.JPG" width="250" alt="C6 bearing"></center>
     
-    * On Rev C with magnet brake release, make sure the the hole for the back magnet is clean, the magnet should go down against the bottom of the hole.   
+    * On Rev C with magnet brake release, make sure the hole for the back magnet is clean, the magnet should go down against the bottom of the hole.   
 
 #### **Assembling tips:**
-  * Rev B is self explainatory. The 3 parts goes together by sliding the tang into the correponding hole to make the hinges.
+  * Rev B is self explanatory. The 3 parts goes together by sliding the tang into the correponding hole to make the hinges.
   * Rev C need a bit more attention to assemble the fiklament path on the base.
     * 1. Insert the magnet into the middle holes of the base and the filament path. The magnet must repell each other.
       * 1.1 Optionally, you can use another set of magnet into the side holes if needed. In that case, the screw will be unaccessible without disassembling the parts

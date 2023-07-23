@@ -25,7 +25,7 @@ Version  C6 only works with Sturdy Bunny or coming soon V2.
   * print the **Triple_Decky_Base_C6_0.stl** 
   * print **Triple_Decky_Filament_path_3PS_C6_1.stl** from the folder Filament_Path_for_3_position_Servo.
   * print the multicolor **Triple_Decky_Tag_Plates_X.stl** from the **Base_Tag_Plates** folder for the Triple_Decky_Base
-  * print the tophat : **[a]Triple_Decky_Tophat-integerated_3PS_C6_2.stl**.
+  * print the tophat : **[a]Triple_Decky_Tophat-integrated_3PS_C6_2.stl**.
   * print the latch **[a]Triple_Decky_Latch_RevC6_0.stl**
   * print the trap of your choice from the Traps folder. Experiment to find the one that gives the better holding capability.
     *  **TD_Base_Trap_C5_Screw.stl** (This one needs a set screw M3x3)
