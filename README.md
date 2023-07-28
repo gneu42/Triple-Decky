@@ -79,7 +79,7 @@ It will not be possible to install the magnetic gates on Rev C.
   * The 3 main parts are fitting together using a kind of hinge. They should fit together without filing and with a little bit of play. 
   * Make sure that the rectangular hole in the filament path Rev C is clean so the trap/brake can fit loosely in. There should be 0.5mm clearance.
   * For unknown reason, Super Slicer and Prusa slicer reports 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
-  * Make sure you have "Thin wall" enable, otherwise you won't have supports. 
+  * Make sure you have "Thin wall" enable, otherwise you won't have supports. Set also the speed for thin wall around 50% of the external perimeter speed.
 
 #### **Cleaning tips:**
   * All support should come off very easily.
@@ -91,7 +91,11 @@ It will not be possible to install the magnetic gates on Rev C.
    
     <center><img src="Images/C-trap.JPG" width="250" alt="C6 bearing"></center>
     
-    * On Rev C with magnet brake release, make sure the hole for the back magnet is clean, the magnet should go down against the bottom of the hole.   
+    * On Rev C with magnet brake release, make sure the hole for the back magnet is clean, the magnet should go down against the bottom of the hole.  
+    * On the tophat up to version C6.2 it could be possible that depending on the type of ABS(+) you're using, the tophat does not move as freely as needed. To solve that, you can cut or file down one layer off from the tang on the support side. This is fixed in the next version C6.3. I only encounter that problem with my ESUN Green ABS+.
+
+    <center><img src="Images/C6-Tophat-62b.JPG" width="250" alt="C6 bearing"></center>
+
 
 #### **Assembling tips:**
   * Rev B is self explanatory. The 3 parts goes together by sliding the tangs into the correponding cavities that makes the hinges.
