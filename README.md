@@ -64,12 +64,7 @@ It will not be possible to install the magnetic gates on Rev C.
             <p>
 
 
-
-
-
-
 **I have re-structured this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
-
 
  
 #### **Printing tips:**
@@ -100,20 +95,26 @@ It will not be possible to install the magnetic gates on Rev C.
 #### **Assembling tips:**
   * Rev B is self explanatory. The 3 parts goes together by sliding the tangs into the correponding cavities that makes the hinges.
   * Rev C need a bit more attention to assemble the fiklament path on the base.
-    * 1. Insert the magnet into the middle holes of the base and the filament path. The magnet must repell each other.
+    * 1. Insert the M3x8 SHCS screw into the side hole of the base before installing the filament path. You will be able to access the screw through the filament pass later. (If you want to use 4 magnets, than you need to install the base on the 2020 extrusion before installing the magnets and filament path. 4 magnets are normally not necessary.)
+
+      <center><img src="Images/C6-M3x8.JPG" width="250" alt="C6 bearing"></center
+
+    * 2. Insert the magnet into the middle holes of the base and the filament path. The magnet must repell each other.
       * Optionally, you can use another set of magnet into the side holes if needed. In that case, the screw will be unaccessible without disassembling the parts
-    * 2. Insert the trap into the female dovetail.
+    * 3. Insert the trap into the female dovetail.
       * If you use the screw trap, insert the screw at a slight angle. The 2 holes are angled by about 2°
        
       <center><img src="Images/C-trap-angle.JPG" width="250" alt="C6 bearing"></center>
 
-    * 3. Align the filament path above the base so they are parrallel and the top of the brake (trap) is "almost" inside his corresponding hole in the filament path and the tang of the hinge is just above the cavity of the base.
+    * 3. Align the filament path above the base so they are parrallel and the top of the brake (trap) is "almost" inside his corresponding hole in the filament path and the tang of the hinge is just above the cavity of the base. 
      
       <center><img src="Images/C6-snap.JPG" width="250" alt="C6 bearing"></center>
     
     * 4. Press firmly the filament path into the base. It snap into place easily.
     
       <center><img src="Images/C6-snap2.JPG" width="250" alt="C6 bearing"></center> 
+
+  
 
 ### At this moment, there  4 versions of Triple-Decky.
 
