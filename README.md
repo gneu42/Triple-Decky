@@ -102,8 +102,7 @@ It will not be possible to install the magnetic gates on Rev C.
     * 2. Insert the magnet into the middle holes of the base and the filament path. The magnet must repell each other.
       * Optionally, you can use another set of magnet into the side holes if needed. In that case, the screw will be unaccessible without disassembling the parts
     * 3. Insert the trap into the female dovetail.
-      * If you use the screw trap, insert the set screw at a slight angle. The 2 holes are angled by about 2°
-      Insert the set screw in the top hole. 
+      * If you use the screw trap, insert the set screw at a slight angle. The 2 holes are angled by about 2°. Insert the set screw in the top hole. <BR>
       The set screw can be :
         * M3x3mm
         * M3x2.5mm
