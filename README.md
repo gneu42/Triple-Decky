@@ -11,7 +11,7 @@ An integrated tophat based on number 1 tophat locker to be used with Springy [fr
 Although Rev B version still has the possibility to install the magnetic gate, it is normally not needed anymore.
 It will not be possible to install the magnetic gates on Rev C.
 The width is 23.05mm as the latest Sturdy Bunny filament block that incorporate the bearing in the block.
-To take all the benefit of the Trple Decky Filament Block, it is recommended to use a good buffer system (preferably a single loop buffer)The PTFE tube should not apply down force on the ECAS so the magnet can do their work correctly.
+To take all the benefit of the Trple Decky Filament Block, it is recommended to use a good buffer system (preferably a single loop buffer) The PTFE tube should not apply down force on the ECAS so the magnet can do their work correctly.
 For people who needs a bypass block, there will be one incorporated in the "filament block end" of ERCF V2. A stand alone Bypass block that can be placed anywhere on the 2020 extrusion is also available on the triple decky Github. (Bypass_with_ECAS.STL) 
 
 ## Summary.
@@ -28,9 +28,9 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 
 ## Latest updates.
 * #### Stand alone Bypass Block with ECAS. 
+     
+   <center><img src="Images/Bypass.JPG" width="250" alt="C6 bearing">You can find it in stl/sturdy bunny</center>
   
-   [Bypass Block.](https://github.com/gneu42/Triple-Decky/blob/Dev/triple-decky/stl/sturdy_bunny)
-   <center><img src="Images/Bypass.JPG" width="250" alt="C6 bearing"></center>
 * #### New Filament Path Rev C6_3. Read more about it [here](#update-6_3). 
 
 * #### Triple Decky Rev C for 3 positions servo STLs. Make sure to read the [Important Note Below](#important-note-about-the-3ps-version) first !!!
@@ -53,7 +53,7 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 **I have re-structured this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
 
 ## BOM.
-For eack block you need :  
+For each block you need :  
   * #### Rev B.
     * 1 M3x8 SHSC (to mount the base on the 2020 extrusion)
     * 1 M3x18 SHSC (to mount the latch on the base)
@@ -63,14 +63,14 @@ For eack block you need :
   * #### Rev C magnet release trap.
     * 1 M3x8 SHSC (to mount the base on the 2020 extrusion)
     * 1 M3x18 SHSC (to mount the latch on the base)
-    * 1 M3x3 set scew. Length: from 2 to 3mm (to install in the trap) (M3x2 can be found in BMG).
+    * 1 M3x3 set screw. Length: from 2 to 3mm (to install in the trap) (M3x2 can be found in BMG).
     * 3 6x3 magnets (between the base and the filament path and at the back of the filament path)
     * 1 ECAS (on the filament path)
     * 1 set of BMG (on the D-shaft in the base and in the top hat)
   * #### Rev C 3 positions servo release trap.
     * 1 M3x8 SHSC (to mount the base on the 2020 extrusion)
     * 1 M3x18 SHSC (to mount the latch on the base)
-    * 1 M3x3 set scew. Length: from 2 to 3mm (to install in the trap) (M3x2 can be found in BMG).
+    * 1 M3x3 set screw. Length: from 2 to 3mm (to install in the trap) (M3x2 can be found in BMG).
     * 2 6x3 magnets (between the base and the filament path)
     * 1 ECAS (on the filament path)
     * 1 set of BMG (on the D-shaft in the base and in the top hat)
@@ -144,8 +144,8 @@ For eack block you need :
 
 #### Update 6_3 
  This update concern all **Filament Path revision B and C for Sturdy Bunny**. The ECAS is moved 4mm out to enable the insertion of the PTFE tube inside the part. I recommend to use it over the previous versions.
- * This allow for easy threading of the filament and keeps also the geometry for Endless Spool fuction.
- * It avoid the ECAS to go slowly out of its cavity after some time.
+ * This allow for easy threading of the filament and keeps also the geometry for Endless Spool function.
+ * It avoids the ECAS to go slowly out of its cavity after some time.
 
 <center><img src="Images/C63.JPG" width="250" alt="C6 bearing"><img src="Images/Diff-C63.JPG" width="250" alt="C6 bearing"></center>
 
@@ -229,7 +229,7 @@ This is an update from Rev C5 that fixes the following issues:
    * New integrated tophat based on number 1 tophat locker to be used with Springy [from Moggieuk](https://github.com/moggieuk/ERCF-Springy/tree/main)  
    * optional base to use the old magnetic gates. In that case, the small part of the hinge of the filament path must be cut at the mark.
    * The latch has an optional set screw to apply a little bit of friction on the filament. This help the filament to stay still in case of vibrations.<p>
-   * Since this version has no real brake system, it is better to use a single loop buffer system that provide more stability of the filament when it is in the buffer.
+   * Since this version has no real brake system. It is better to use a single loop buffer system that provide more stability of the filament when it is in the buffer.
   
       <center><img src="Images/B4-in.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-out.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-side.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></center>
            
