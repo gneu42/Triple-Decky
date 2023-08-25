@@ -29,7 +29,7 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 ## Latest updates.
 * #### Stand alone Bypass Block with ECAS. 
   
-   [Bypass Block.](triple-decky/stl/sturdy_bunny/)
+   [Bypass Block.](https://github.com/gneu42/Triple-Decky/blob/Dev/triple-decky/stl/sturdy_bunny)
    <center><img src="Images/Bypass.JPG" width="250" alt="C6 bearing"></center>
 * #### New Filament Path Rev C6_3. Read more about it [here](#update-6_3). 
 
