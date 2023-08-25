@@ -29,7 +29,8 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 ## Latest updates.
 * #### Stand alone Bypass Block with ECAS. 
   
-   [<center><img src="Images/Bypass.JPG" width="250" alt="C6 bearing"></center>](https://github.com/gneu42/triple-decky/tree/main/stl/sturdy_bunny/Bypass_with_ECAS.stl)
+   [* #### Stand alone Bypass Block with ECAS.](https://github.com/gneu42/triple-decky/tree/main/stl/sturdy_bunny/Bypass_with_ECAS.stl)
+   <center><img src="Images/Bypass.JPG" width="250" alt="C6 bearing"></center>
 * #### New Filament Path Rev C6_3. Read more about it [here](#update-6_3). 
 
 * #### Triple Decky Rev C for 3 positions servo STLs. Make sure to read the [Important Note Below](#important-note-about-the-3ps-version) first !!!
