@@ -202,7 +202,8 @@ This is an update from Rev C5 that fixes the following issues:
            * servo_down_angle: 45
          
       * Change the "encoder_parking_distance:" in mmu_parameters.cfg so the filament parks in the trap. (for me I change it to 15, it was 23) 
-    * **Servo positions**
+  
+   * **Servo positions**
       * Servo Up. (trap released / print without sync)
          <center><img src="Images/Servo-up.JPG" width="250" alt="C5 in"></center>
       * Servo Move. (trap locked / selector movement)
