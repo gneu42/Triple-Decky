@@ -205,11 +205,14 @@ This is an update from Rev C5 that fixes the following issues:
   
    * **Servo positions**
       * Servo Up. (trap released / print without sync)
-         <center><img src="Images/Servo-up.JPG" width="250" alt="C5 in"></center>
+  
+       <center><img src="Images/Servo-up.JPG" width="250" alt="C5 in"></center>
       * Servo Move. (trap locked / selector movement)
-         <center><img src="Images/Servo-move.JPG" width="250" alt="C5 in"></center>
+
+       <center><img src="Images/Servo-move.JPG" width="250" alt="C5 in"></center>
       *  Servo Down. (trap released for Load/unload or print with sync mode)
-         <center><img src="Images/Servo-down.JPG" width="250" alt="C5 in"></center>      <p>
+  
+       <center><img src="Images/Servo-down.JPG" width="250" alt="C5 in"></center>      <p>
  
 
 ### **Triple Decky for magnet brake release**
