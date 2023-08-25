@@ -149,7 +149,7 @@ For each block you need :
  * This allow for easy threading of the filament and keeps also the geometry for Endless Spool function.
  * It avoids the ECAS to go slowly out of its cavity after some time.
 
-<center><img src="Images/C63.JPG" width="250" alt="C6 bearing"><img src="Images/Diff-C63.JPG" width="250" alt="C6 bearing"></center>
+      <center><img src="Images/C63.JPG" width="250" alt="C6 bearing"><img src="Images/Diff-C63.JPG" width="250" alt="C6 bearing"></center>
 
 
       
