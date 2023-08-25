@@ -126,7 +126,8 @@ For each block you need :
     
       <center><img src="Images/C6-snap2.JPG" width="250" alt="C6 bearing"></center>
   * Magnets orientation.
-       <center><img src="Images/Magnet.JPG" width="150" alt="C6 bearing"><img src="Images/C6-Magnets.JPG" width="450" alt="C6 bearing"></center>
+  
+       <center><img src="Images/magnet.JPG" width="150" alt="C6 bearing"><img src="Images/C6-Magnets.JPG" width="450" alt="Magnets"></center>
 
  ## Triple Decky for Sturdy Bunny build on a 2020 extrusion. 
  ### Triple Decky Rev C
