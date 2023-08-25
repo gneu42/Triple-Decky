@@ -125,9 +125,10 @@ For each block you need :
     * 5. Press firmly the filament path into the base. It snap into place easily.
     
       <center><img src="Images/C6-snap2.JPG" width="250" alt="C6 bearing"></center>
+
   * Magnets orientation.
   
-       <center><img src="Images/magnet.JPG" width="150" alt="C6 bearing"><img src="Images/C6-Magnets.JPG" width="450" alt="Magnets"></center>
+       <center><img src="Images/Magnet.JPG" width="150" alt="C6 bearing"><img src="Images/C6-magnets.JPG" width="450" alt="Magnets"></center>
 
  ## Triple Decky for Sturdy Bunny build on a 2020 extrusion. 
  ### Triple Decky Rev C
