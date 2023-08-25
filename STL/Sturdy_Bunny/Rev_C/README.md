@@ -12,7 +12,7 @@ Version  C6 only works with Sturdy Bunny or coming soon V2.
 ## **What to print for Revision C6 for magnet brakes release ?**
 
   * print the **Triple_Decky_Base_C6_0.stl** 
-  * print **Triple_Decky_Filament_Path_For_Magnet_C6_2.stl** from the folder Filament_Path_with_magnets.
+  * print **Triple_Decky_Filament_Path_For_Magnet_C6_3.stl** from the folder Filament_Path_with_magnets.
   * print the multicolor **Triple_Decky_Tag_Plates_X.stl** from the **Base_Tag_Plates** folder for the Triple_Decky_Base
   * print the tophat : **[a]Triple_Decky_Tophat-Integrated_For_Magnet_C6_2.stl**.
   * print the latch **[a]Triple_Decky_Latch_RevC6_0.stl**
@@ -23,7 +23,7 @@ Version  C6 only works with Sturdy Bunny or coming soon V2.
 ## **What to print for Revision C6 for 3 positions servo brake gates release ?**
 
   * print the **Triple_Decky_Base_C6_0.stl** 
-  * print **Triple_Decky_Filament_path_3PS_C6_1.stl** from the folder Filament_Path_for_3_position_Servo.
+  * print **Triple_Decky_Filament_path_3PS_C6_3.stl** from the folder Filament_Path_for_3_position_Servo.
   * print the multicolor **Triple_Decky_Tag_Plates_X.stl** from the **Base_Tag_Plates** folder for the Triple_Decky_Base
   * print the tophat : **[a]Triple_Decky_Tophat-integrated_3PS_C6_2.stl**.
   * print the latch **[a]Triple_Decky_Latch_RevC6_0.stl**
