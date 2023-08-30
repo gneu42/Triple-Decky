@@ -216,6 +216,17 @@ This is an update from Rev C5 that fixes the following issues:
   
        <p align=center><img src="Images/Servo-down.JPG" width="250" alt="C5 in"></p>      <p>
  
+  * **Servo geometry for 3 positions servo** 
+      The servo arm is based on the Springy servo arm. To have a better effect when using the 3 positions servo, the geometry is modified as shown on the picture below. The blue area shows the added part. This make the "UP" position pushing a bit more to release the trap. The length is also increased by about 0.3mm in the "DOWN" position. It is, therefore, better to use it with Springy from [@moggieuk](https://github.com/moggieuk/ERCF-Springy/tree/main).
+      This version is available for MG90S and Sävox SH-0255-MG in the "Rev_C/Filament_Path_for_3_position_Servo" sub-directory of this repo. 
+
+. 
+<p align=center><img src="Images/Servo-arm-3PS.JPG" width="250" alt="C5 in"></p>
+
+  * **Servo splines differences** 
+      The servo arm splines are different between the MG90S (blue shade on the picture) and the Sävox SH-0255-MG (in red on the picture). Be sure to use the arm the matches your servo.
+
+<p align=center><img src="Images/Servo-spline.JPG" width="250" alt="C5 in"></p>
 
 ### **Triple Decky for magnet brake release**
 
