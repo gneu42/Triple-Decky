@@ -27,7 +27,11 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 
 
 ## Latest updates.
-* #### Stand alone Bypass Block with ECAS. 
+* #### Triple Decky Base C6.3.
+  No gange in important geometry. Only aesthetic change to blend better with filament path C6.3.
+  
+<p align=center><img src="Images/Base-C63.JPG" width="250" alt="C6 bearing">
+* #### Stand alone Bypass Block with ECAS.</p> 
      
    <p align=center><img src="Images/Bypass.JPG" width="250" alt="C6 bearing">You can find it in stl/sturdy bunny</p>
   
