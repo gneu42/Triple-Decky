@@ -28,7 +28,7 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 ***
 ## Latest updates.
 
-:warning:* #### Triple Decky Base C6.3. <sub>*Aug 31, 2023*</sub>
+* #### Triple Decky Base C6.3. <sub>*Aug 31, 2023*</sub>
   
   No change in the main geometries. Only aesthetic change to blend better with filament path C6.3.
 
