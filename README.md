@@ -19,23 +19,24 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 * **[Printing Tips](#printing-tips)**
 * **[Cleaning tips](#cleaning-tips)**
 * **[Assembling tips](#assembling-tips)**
-* **[Revision C for 3 positions servo "3PS" (Strudy Bunny & ERCF V2)](#triple-decky-for-3-positions-servo-brake-release)**
-  * **[Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)**
-* **[Revision C for magnet release brake (Strudy Bunny & ERCF V2)](#triple-decky-for-magnet-brake-release)**
-* **[Revision B (Strudy Bunny & ERCF V2)](#triple-decky-rev-b)**
-* **[TD for ERCF 1.1](#for-ercf-v1)**
-
+* **[Triple Decky for Sturdy Bunny and ERCF V2](#triple-decky-for-sturdy-bunny-build-on-a-2020-extrusion)**
+  * **[Revision C for 3 positions servo "3PS"](#triple-decky-for-3-positions-servo-brake-release)**
+    * **[Important note about Rev C 3 positions servo](#important-note-about-the-3ps-version)**
+  * **[Revision C for magnet release brake ](#triple-decky-for-magnet-brake-release)**
+  * **[Revision B ](#triple-decky-rev-b)**
+* **[Triple Decky for ERCF 1.1](#triple-decky-for-ercf-v1)**
 
 ## Latest updates.
-* #### Triple Decky Base C6.3.
-  No change in important geometry. Only aesthetic change to blend better with filament path C6.3.
+* #### Triple Decky Base C6.3. <font size="2"> Aug 31, 2023</font>
+  No change in the main geometries. Only aesthetic change to blend better with filament path C6.3.
 
-<p align=center><img src="Images/Base-C63.JPG" width="250" alt="C6 bearing">
-* #### Stand alone Bypass Block with ECAS.</p> 
+<p align=center><img src="Images/Base-C63.JPG" width="250" alt="C6 bearing"><font size="1"> You can still find the Triple_Decky_Base_C6_0.stl in the archive folder.</font>
+
+* #### Stand alone Bypass Block with ECAS. <font size="2"> Aug 25, 2023</font> 
      
    <p align=center><img src="Images/Bypass.JPG" width="250" alt="C6 bearing">You can find it in stl/sturdy bunny</p>
   
-* #### New Filament Path Rev C6_3. Read more about it [here](#update-6_3). 
+* #### New Filament Path Rev C6_3. Read more about it [here](#update-6_3). <font size="2"> Aug 25, 2023</font> 
 
 * #### Triple Decky Rev C for 3 positions servo STLs. Make sure to read the [Important Note Below](#important-note-about-the-3ps-version) first !!!
 
@@ -77,7 +78,9 @@ For each block you need :
     * 1 M3x3 set screw. Length: from 2 to 3mm (to install in the trap) (M3x2 can be found in BMG).
     * 2 6x3 magnets (between the base and the filament path)
     * 1 ECAS (on the filament path)
-    * 1 set of BMG (on the D-shaft in the base and in the top hat)
+    * 1 set of BMG (on the D-shaft in the base and in the top hat)<p>
+   
+   <font size="2">[Summary](#summary)
  
 ## **Printing tips:**
   * Make sure your printer is well tuned, especially the first layer height. If it is too thick, the brake (trap) will be too thick and will not move freely inside the filament path.
@@ -86,7 +89,7 @@ For each block you need :
   * The 3 main parts are fitting together using a kind of hinge. They should fit together without filing and with a little bit of play. 
   * Make sure that the rectangular hole in the filament path Rev C is clean so the trap/brake can fit loosely in. There should be 0.5mm clearance.
   * For unknown reason, Super Slicer and Prusa slicer reports 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
-  * Make sure you have "Thin wall" enable, otherwise you won't have supports. Set also the speed for thin wall around 50% of the external perimeter speed.
+  * Make sure you have "Thin wall" enable, otherwise you won't have supports. Set also the speed for thin wall around 50% of the external perimeter speed.<p> <font size="2">[Summary](#summary)
 
 ## **Cleaning tips:**
   * All support should come off very easily.
@@ -102,7 +105,8 @@ For each block you need :
     * On the tophat up to version C6.2 it could be possible that depending on the type of ABS(+) you're using, the tophat does not move as freely as needed. To solve that, you can cut or file down one layer off from the tang on the support side. This is fixed in the next version C6.3. I only encounter that problem with my ESUN Green ABS+.
 
     <p align=center><img src="Images/C6-Tophat-62b.JPG" width="250" alt="C6 bearing"></p>
-
+      
+       <font size="2">[Summary](#summary)
 
 ## **Assembling tips:**
   * Rev B is self explanatory. The 3 parts goes together by sliding the tangs into the correponding cavities that makes the hinges.
@@ -134,7 +138,9 @@ For each block you need :
   
        <p align=center><img src="Images/Magnet.JPG" width="150" alt="C6 bearing"><img src="Images/C6-magnets.JPG" width="450" alt="Magnets"></p>
 
- ## Triple Decky for Sturdy Bunny build on a 2020 extrusion. 
+<font size="2">[Summary](#summary)
+
+ ## Triple Decky for Sturdy Bunny build on a 2020 extrusion 
  ### Triple Decky Rev C
    **It is an evolution of Rev B. with the following new features.**
    *  It has a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5 mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
@@ -177,8 +183,8 @@ This is an update from Rev C5 that fixes the following issues:
       <p>
            
 
-### **Triple Decky for 3 positions servo brake release.**
-  
+### **Triple Decky for 3 positions servo brake release**
+
    * This version uses the servo to push the filament path down so the filament is free to move when the gate is selected.
    * When the gate is not selected, the filament will be hold still by the trap.
    *  New integrated tophat based on number 1 tophat locker to be used with Springy [from Moggieuk](https://github.com/moggieuk/ERCF-Springy/tree/main) 
@@ -186,6 +192,8 @@ This is an update from Rev C5 that fixes the following issues:
       <p align=center><img src="Images/C6-3PS-in.JPG" width="250" alt="C5 in"> <img src="Images/C6-3PS-out.JPG" width="250" alt="C5 out"></p><p>
       <p align=center><img src="Images/C6-3PS-cut.JPG" width="250" alt="C5 cutout"> <img src="Images/C6-3PS-trap.JPG" width="250" alt="C5 trap"></p>
   
+  <font size="2">[Summary](#summary)
+
 #  **IMPORTANT NOTE ABOUT THE 3PS VERSION.**
    *  **If you want to test the C6 with 3 positions servo YOU HAVE TO have access to the latest Happy-Hare software (HHv2) that support the servo 3rd position. Otherwise IT WILL NOT WORK. It is in beta for a few people at this moment. If you are one of those beta tester, you can try this Triple Decky C6 3PS. <br>IF NOT, WAIT UNTIL IT IS FULLY RELEASED.<br> The actual KlipperScreen for Happy Hare needs also a special updated version.**
    * The base is the same for both Rev C versions (Triple_Decky_Base_C6_0.stl).
@@ -232,6 +240,8 @@ This is an update from Rev C5 that fixes the following issues:
 
 <p align=center><img src="Images/Servo-spline.JPG" width="250" alt="C5 in"></p>
 
+<font size="2">[Summary](#summary)
+
 ### **Triple Decky for magnet brake release**
 
    * This version uses the encoder magnet to push the filament path down so the filament is free to move when the gate is selected.
@@ -242,6 +252,7 @@ This is an update from Rev C5 that fixes the following issues:
        <p align=center><img src="Images/C5-in.JPG" width="250" alt="C5 in"> <img src="Images/C5-out.JPG" width="250" alt="C5 out"></p><p>
        <p align=center><img src="Images/C5-cut.JPG" width="250" alt="C5 cutout"> <img src="Images/C5-trap.JPG" width="250" alt="C5 trap"></p>
 
+<font size="2">[Summary](#summary)
 
 ### **Triple Decky Rev B**
 
@@ -255,7 +266,8 @@ This is an update from Rev C5 that fixes the following issues:
    * Since this version has no real brake system. It is better to use a single loop buffer system that provide more stability of the filament when it is in the buffer.
   
       <p align=center><img src="Images/B4-in.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-out.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-side.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></p>
-           
+       
+       <font size="2">[Summary](#summary)    
  
 ## **Triple Decky for ERCF V1**
 
@@ -263,4 +275,6 @@ This is an update from Rev C5 that fixes the following issues:
    
       <p align=center><img src="Images/TD%20for%20ERCF-V1.JPG" width="250" alt="Triple Decky for ERCF V1"></p>
 
-  
+<font size="2">[Summary](#summary)
+
+
