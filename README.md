@@ -30,12 +30,12 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 * #### Triple Decky Base C6.3. <font size="2"> Aug 31, 2023</font>
   No change in the main geometries. Only aesthetic change to blend better with filament path C6.3.
 
-<p align=center><img src="Images/Base-C63.JPG" width="250" alt="C6 bearing"><font size="1"> <img src="Images/Base-C60.JPG" width="240" alt="C6 bearing"><p align=right>
+<p align=center><img src="Images/Base-C63.JPG" width="250" alt="Base-C63.JPG"> <img src="Images/Base-C60.JPG" width="240" alt="Base-C60.JPG"><p align=right>
 <font size="1"> You can still find the Triple_Decky_Base_C6_0.stl in the archive folder.</font>
 
 * #### Stand alone Bypass Block with ECAS. <font size="2"> Aug 25, 2023</font> 
      
-   <p align=center><img src="Images/Bypass.JPG" width="250" alt="C6 bearing">You can find it in stl/sturdy bunny</p>
+   <p align=center><img src="Images/Bypass.JPG" width="250" alt="Bypass.JPG">You can find it in stl/sturdy bunny</p>
   
 * #### New Filament Path Rev C6_3. Read more about it [here](#update-6_3). <font size="2"> Aug 25, 2023</font> 
 
@@ -100,12 +100,12 @@ For each block you need :
     * The trap part should have a thickness of 3.05mm, use a file to make it <= 3.05mm or tune your first layer.
     * On the screw trap part you need to make sure that there are no plastic between the thread of the set screw and the filament. Use a sharp x-acto knive to open the space between the 2 holes.
    
-    <p align=center><img src="Images/C-trap.JPG" width="250" alt="C6 bearing"></p>
+    <p align=center><img src="Images/C-trap.JPG" width="250" alt="C-trap.JPG"></p>
     
     * On Rev C with magnet brake release, make sure the hole for the back magnet is clean, the magnet should go down against the bottom of the hole.  
     * On the tophat up to version C6.2 it could be possible that depending on the type of ABS(+) you're using, the tophat does not move as freely as needed. To solve that, you can cut or file down one layer off from the tang on the support side. This is fixed in the next version C6.3. I only encounter that problem with my ESUN Green ABS+.
 
-    <p align=center><img src="Images/C6-Tophat-62b.JPG" width="250" alt="C6 bearing"></p>
+    <p align=center><img src="Images/C6-Tophat-62b.JPG" width="250" alt="C6-Tophat-62b.JPG"></p>
       
        <font size="2">[Summary](#summary)
 
@@ -114,7 +114,7 @@ For each block you need :
   * Rev C need a bit more attention to assemble the filament path on the base.
     * 1. Insert the M3x8 SHCS screw into the side hole of the base before installing the filament path. You will be able to access the screw through the filament pass later. (If you want to use 4 magnets, than you need to install the base on the 2020 extrusion before installing the magnets and filament path. 4 magnets are normally not necessary.)
 
-      <p align=center><img src="Images/C6-M3x8.JPG" width="250" alt="C6 bearing"></p>
+      <p align=center><img src="Images/C6-M3x8.JPG" width="250" alt="C6-M3x8.JPG"></p>
 
     * 2. Insert the magnet into the middle holes of the base and the filament path. The magnet must repell each other.
       * Optionally, you can use another set of magnet into the side holes if needed. In that case, the screw will be unaccessible without disassembling the parts
@@ -125,19 +125,19 @@ For each block you need :
         * M3x2.5mm
         * M3x2mm, the same that you can find in the BMG.   
        
-      <p align=center><img src="Images/C-trap-angle.JPG" width="250" alt="C6 bearing"></p>
+      <p align=center><img src="Images/C-trap-angle.JPG" width="250" alt="C-trap-angle.JPG"></p>
 
     * 4. Align the filament path above the base so they are parrallel and the top of the brake (trap) is "almost" inside his corresponding hole in the filament path and the tang of the hinge is just above the cavity of the base. 
      
-      <p align=center><img src="Images/C6-snap.JPG" width="250" alt="C6 bearing"></p>
+      <p align=center><img src="Images/C6-snap.JPG" width="250" alt="C6-snap.JPG"></p>
     
     * 5. Press firmly the filament path into the base. It snap into place easily.
     
-      <p align=center><img src="Images/C6-snap2.JPG" width="250" alt="C6 bearing"></p>
+      <p align=center><img src="Images/C6-snap2.JPG" width="250" alt="C6-snap2.JPG"></p>
 
   * Magnets orientation.
   
-       <p align=center><img src="Images/Magnet.JPG" width="150" alt="C6 bearing"><img src="Images/C6-magnets.JPG" width="450" alt="Magnets"></p>
+       <p align=center><img src="Images/Magnet.JPG" width="150" alt="Magnet.JPG"><img src="Images/C6-magnets.JPG" width="450" alt="C6-magnets.JPG"></p>
 
 <font size="2">[Summary](#summary)
 
@@ -162,7 +162,7 @@ For each block you need :
  * This allow for easy threading of the filament and keeps also the geometry for Endless Spool function.
  * It avoids the ECAS to go slowly out of its cavity after some time.
 
-      <p align=center><img src="Images/C63.JPG" width="250" alt="C6 bearing"><img src="Images/Diff-C63.JPG" width="250" alt="C6 bearing"></p>
+      <p align=center><img src="Images/C63.JPG" width="250" alt="C63.JPG"><img src="Images/Diff-C63.JPG" width="250" alt="Diff-C63.JPG"></p>
 
 
       
@@ -175,7 +175,7 @@ This is an update from Rev C5 that fixes the following issues:
     * output face of the filament path is tilted 4° to avoid rubbing on the encoder cart
     * new tophat to match the brake release magnet new position
 
-        <p align=center><img src="Images/C6-bearing.JPG" width="250" alt="C6 bearing"> <img src="Images/C6-backside.JPG" width="250" alt="C6 output face"></p>
+        <p align=center><img src="Images/C6-bearing.JPG" width="250" alt="C6 bearing"> <img src="Images/C6-backside.JPG" width="250" alt="C6-backside.JPG"></p>
 
   * **Warning:**
           * C6_x base need to have C6_x filament path
@@ -221,27 +221,27 @@ This is an update from Rev C5 that fixes the following issues:
    * **Servo positions**
       * Servo Up. (trap released / print without sync)
   
-       <p align=center><img src="Images/Servo-up.JPG" width="250" alt="C5 in"></p>
+       <p align=center><img src="Images/Servo-up.JPG" width="250" alt="Servo-up.JPG"></p>
 
       * Servo Move. (trap locked / selector movement)
 
-       <p align=center><img src="Images/Servo-move.JPG" width="250" alt="C5 in"></p>
+       <p align=center><img src="Images/Servo-move.JPG" width="250" alt="Servo-move.JPG"></p>
 
       *  Servo Down. (trap released for Load/unload or print with sync mode)
   
-       <p align=center><img src="Images/Servo-down.JPG" width="250" alt="C5 in"></p>      <p>
+       <p align=center><img src="Images/Servo-down.JPG" width="250" alt="Servo-down.JPG"></p>      <p>
  
   * **Servo geometry for 3 positions servo** 
       The servo arm is based on the Springy servo arm. To have a better effect when using the 3 positions servo, the geometry is modified as shown on the picture below. The blue area shows the added part. This make the "UP" position pushing a bit more to release the trap. The length is also increased by about 0.3mm in the "DOWN" position. It is, therefore, better to use it with Springy from [@moggieuk](https://github.com/moggieuk/ERCF-Springy/tree/main).
       This version is available for MG90S and Sävox SH-0255-MG in the "Rev_C/Filament_Path_for_3_position_Servo" sub-directory of this repo. 
 
 . 
-<p align=center><img src="Images/Servo-arm-3PS.JPG" width="250" alt="C5 in"></p>
+<p align=center><img src="Images/Servo-arm-3PS.JPG" width="250" alt="Servo-arm-3PS.JPG"></p>
 
   * **Servo splines differences** 
       The servo arm splines are different between the MG90S (blue shade on the picture) and the Sävox SH-0255-MG (in red on the picture). Be sure to use the arm the matches your servo.
 
-<p align=center><img src="Images/Servo-spline.JPG" width="250" alt="C5 in"></p>
+<p align=center><img src="Images/Servo-spline.JPG" width="250" alt="Servo-spline.JPG"></p>
 
 <font size="2">[Summary](#summary)
 
@@ -268,7 +268,7 @@ This is an update from Rev C5 that fixes the following issues:
    * The latch has an optional set screw to apply a little bit of friction on the filament. This help the filament to stay still in case of vibrations.<p>
    * Since this version has no real brake system. It is better to use a single loop buffer system that provide more stability of the filament when it is in the buffer.
   
-      <p align=center><img src="Images/B4-in.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-out.JPG" width="250" alt="Triple Decky for Sturdy Bunny"> <img src="Images/B4-side.JPG" width="250" alt="Triple Decky for Sturdy Bunny"></p>
+      <p align=center><img src="Images/B4-in.JPG" width="250" alt="B4-in.JPG"> <img src="Images/B4-out.JPG" width="250" alt="B4-out.JPG"> <img src="Images/B4-side.JPG" width="250" alt="B4-side.JPG"></p>
        
        <font size="2">[Summary](#summary)    
  
