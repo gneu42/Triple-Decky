@@ -30,7 +30,8 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 * #### Triple Decky Base C6.3. <font size="2"> Aug 31, 2023</font>
   No change in the main geometries. Only aesthetic change to blend better with filament path C6.3.
 
-<p align=center><img src="Images/Base-C63.JPG" width="250" alt="C6 bearing"><font size="1"> You can still find the Triple_Decky_Base_C6_0.stl in the archive folder.</font>
+<p align=center><img src="Images/Base-C63.JPG" width="250" alt="C6 bearing"><font size="1"> <img src="Images/Base-C60.JPG" width="240" alt="C6 bearing"><p align=right>
+<font size="1"> You can still find the Triple_Decky_Base_C6_0.stl in the archive folder.</font>
 
 * #### Stand alone Bypass Block with ECAS. <font size="2"> Aug 25, 2023</font> 
      
@@ -151,6 +152,8 @@ For each block you need :
    *  The use of the old magnetic gates will be **impossible** on that version.
    *  If you are using Happy Hare software, you should decrease the "parking_distance" in the ercf_parameters to about 15 so the filament parks inside the trap.
    *  It is normal that the filament does not pass the trap when inserted manually. When the gate will be selected, Happy Hare will load it without problem. If you want to lock it inside the trap, than you need to push down the exit side of the filament path with your finger and insert the filament about 5 mm further.<p>
+
+<font size="2">[Summary](#summary)
   
 ### **Triple Decky Rev C6 magnet brake release or 3 positions servo.** 
 
