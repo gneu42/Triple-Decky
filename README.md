@@ -13,7 +13,7 @@ It will not be possible to install the magnetic gates on Rev C.
 The width is 23.05mm as the latest Sturdy Bunny filament block that incorporate the bearing in the block.
 To take all the benefit of the Trple Decky Filament Block, it is recommended to use a good buffer system (preferably a single loop buffer) The PTFE tube should not apply down force on the ECAS so the magnet can do their work correctly.
 For people who needs a bypass block, there will be one incorporated in the "filament block end" of ERCF V2. A stand alone Bypass block that can be placed anywhere on the 2020 extrusion is also available on the triple decky Github. (Bypass_with_ECAS.STL) 
-
+***
 ## Summary.
 * **[Bom](#bom)**
 * **[Printing Tips](#printing-tips)**
@@ -25,10 +25,11 @@ For people who needs a bypass block, there will be one incorporated in the "fila
   * **[Revision C for magnet release brake ](#triple-decky-for-magnet-brake-release)**
   * **[Revision B ](#triple-decky-rev-b)**
 * **[Triple Decky for ERCF 1.1](#triple-decky-for-ercf-v1)**
-
+***
 ## Latest updates.
 
-* #### Triple Decky Base C6.3. <font size="2"> Aug 31, 2023</font>
+* #### Triple Decky Base C6.3. 
+  
   No change in the main geometries. Only aesthetic change to blend better with filament path C6.3.
 
 <p align=center><img src="Images/Base-C63.JPG" width="250" alt="Base-C63.JPG"> <img src="Images/Base-C60.JPG" width="240" alt="Base-C60.JPG"></p>
@@ -44,7 +45,7 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 
 * #### Triple Decky Rev. C. Read the details [here](#triple-decky-rev-c)
 
-  
+***
 ## **Yet in development :**
 * **ERCF V2 :** at this moment, ERCF V2 is in development by a team of designers. Lots of things have been developed and are tested, but regarding the filament blocks, no decision have been taken on which version of Triple Decky or another type will be used.
   * Mods in progress :
@@ -58,7 +59,7 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 
 
 **I have re-structured this GitHub to show only the latest versions of each type. All previous STLs are available in the Archives folder.**
-
+***
 ## BOM.
 For each block you need :  
   * #### Rev B.
@@ -83,7 +84,7 @@ For each block you need :
     * 1 set of BMG (on the D-shaft in the base and in the top hat)<p>
    
    <font size="2">[Summary](#summary)
- 
+*** 
 ## **Printing tips:**
   * Make sure your printer is well tuned, especially the first layer height. If it is too thick, the brake (trap) will be too thick and will not move freely inside the filament path.
   * All STL were tested OK with ABS and ABS+ 
@@ -92,7 +93,7 @@ For each block you need :
   * Make sure that the rectangular hole in the filament path Rev C is clean so the trap/brake can fit loosely in. There should be 0.5mm clearance.
   * For unknown reason, Super Slicer and Prusa slicer reports 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
   * Make sure you have "Thin wall" enable, otherwise you won't have supports. Set also the speed for thin wall around 50% of the external perimeter speed.<p> <font size="2">[Summary](#summary)
-
+***
 ## **Cleaning tips:**
   * All support should come off very easily.
   * There should be very little part cleaning necessary
@@ -109,7 +110,7 @@ For each block you need :
     <p align=center><img src="Images/C6-Tophat-62b.JPG" width="250" alt="C6-Tophat-62b.JPG"></p>
       
        <font size="2">[Summary](#summary)
-
+***
 ## **Assembling tips:**
   * Rev B is self explanatory. The 3 parts goes together by sliding the tangs into the correponding cavities that makes the hinges.
   * Rev C need a bit more attention to assemble the filament path on the base.
@@ -141,7 +142,7 @@ For each block you need :
        <p align=center><img src="Images/Magnet.JPG" width="150" alt="Magnet.JPG"><img src="Images/C6-magnets.JPG" width="450" alt="C6-magnets.JPG"></p>
 
 <font size="2">[Summary](#summary)
-
+***
  ## Triple Decky for Sturdy Bunny build on a 2020 extrusion 
  ### Triple Decky Rev C
    **It is an evolution of Rev B. with the following new features.**
@@ -155,7 +156,7 @@ For each block you need :
    *  It is normal that the filament does not pass the trap when inserted manually. When the gate will be selected, Happy Hare will load it without problem. If you want to lock it inside the trap, than you need to push down the exit side of the filament path with your finger and insert the filament about 5 mm further.<p>
 
 <font size="2">[Summary](#summary)
-  
+***  
 ### **Triple Decky Rev C6 magnet brake release or 3 positions servo.** 
 
 #### Update 6_3 
@@ -186,7 +187,7 @@ This is an update from Rev C5 that fixes the following issues:
           * For all Rev C, only the integrated tophat are available, and needs the Springy servo holder to work. (see above in mods in progress) <p>
       <p>
            
-
+***
 ### **Triple Decky for 3 positions servo brake release**
 
    * This version uses the servo to push the filament path down so the filament is free to move when the gate is selected.
@@ -245,7 +246,7 @@ This is an update from Rev C5 that fixes the following issues:
 <p align=center><img src="Images/Servo-spline.JPG" width="250" alt="Servo-spline.JPG"></p>
 
 <font size="2">[Summary](#summary)
-
+***
 ### **Triple Decky for magnet brake release**
 
    * This version uses the encoder magnet to push the filament path down so the filament is free to move when the gate is selected.
@@ -257,7 +258,7 @@ This is an update from Rev C5 that fixes the following issues:
        <p align=center><img src="Images/C5-cut.JPG" width="250" alt="C5 cutout"> <img src="Images/C5-trap.JPG" width="250" alt="C5 trap"></p>
 
 <font size="2">[Summary](#summary)
-
+***
 ### **Triple Decky Rev B**
 
    * The output side of the filament path has been tilted by 4° to avoid rubbing on the encoder when the selector is moving.
@@ -272,7 +273,7 @@ This is an update from Rev C5 that fixes the following issues:
       <p align=center><img src="Images/B4-in.JPG" width="250" alt="B4-in.JPG"> <img src="Images/B4-out.JPG" width="250" alt="B4-out.JPG"> <img src="Images/B4-side.JPG" width="250" alt="B4-side.JPG"></p>
        
        <font size="2">[Summary](#summary)    
- 
+*** 
 ## **Triple Decky for ERCF V1**
 
    * This is for the original design that is build with M5 all threaded rod. This version will not be developed further because almost all users / builders are moving to Sturdy Bunny, or the coming (soon) ERCF V2.<p>
