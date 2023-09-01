@@ -35,11 +35,11 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 <p align=center><img src="Images/Base-C63.JPG" width="250" alt="Base-C63.JPG"> <img src="Images/Base-C60.JPG" width="240" alt="Base-C60.JPG"></p>
 <p align=right><sub>You can still find the Triple_Decky_Base_C6_0.stl in the archive folder.</sub>
 
-* #### Stand alone Bypass Block with ECAS. <sub>*Aug 31, 2023*</sub> 
+* #### Stand alone Bypass Block with ECAS. <sub>*Aug 25, 2023*</sub> 
      
    <p align=center><img src="Images/Bypass.JPG" width="250" alt="Bypass.JPG">You can find it in stl/sturdy bunny</p>
   
-* #### New Filament Path Rev C6_3. Read more about it [here](#update-6_3). <sub>*Aug 31, 2023*</sub> 
+* #### New Filament Path Rev C6_3. Read more about it [here](#update-6_3). <sub>*Aug 25, 2023*</sub> 
 
 * #### Triple Decky Rev C for 3 positions servo STLs. Make sure to read the [Important Note Below](#important-note-about-the-3ps-version) first !!!
 
