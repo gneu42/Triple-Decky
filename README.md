@@ -1,6 +1,6 @@
 <h1 align="center"><ins>Triple-Decky Filament Block</ins></h1>
 
-## Filament block with  triple decks for ERCF V1/V1.1, Sturdy Bunny and ERCF V2.
+<H2 align="center">Filament block with  triple decks for ERCF V1/V1.1, Sturdy Bunny and ERCF V2.</H1>
 
 ## What is it ?
 
