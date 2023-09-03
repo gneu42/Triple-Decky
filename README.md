@@ -200,11 +200,11 @@ This is an update from Rev C5 that fixes the following issues:
   <font size="2">[Summary](#summary)
 
 #  **IMPORTANT NOTE ABOUT THE 3PS VERSION.**
-   *  **If you want to test the C6 with 3 positions servo YOU HAVE TO have access to the latest Happy-Hare software (HHv2) that support the servo 3rd position. Otherwise IT WILL NOT WORK. It is in beta for a few people at this moment. If you are one of those beta tester, you can try this Triple Decky C6 3PS. <br>IF NOT, WAIT UNTIL IT IS FULLY RELEASED.<br> The actual KlipperScreen for Happy Hare needs also a special updated version.**
-   * The base is the same for both Rev C versions (Triple_Decky_Base_C6_0.stl).
+   *  **If you want to use the C6 with 3 positions servo YOU HAVE TO USE the latest Happy-Hare software (HHv2) that support the servo 3rd position. It is public now. Otherwise IT WILL NOT WORK.   <br> You need also to update KlipperScreen for Happy Hare.**
+   * The base is the same for both Rev C versions (Triple_Decky_Base_C6_3.stl).
    * The taps are the same for both Rev C versions (Traps folder).
-   * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integrated_Universal_Mag&3PS_C6_0.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!**
-   * If this is your first use of Rev C 3PS, then it is better to use the dedicated tophat for 3PS ([a]Triple_Decky_Tophat-integrated_3PS_C6_2.stl).
+   * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integrated_Universal_Mag&3PS_C6_3.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!** <br> **You must have the servo_move_angle defined in the mmu_parameters.cfg**
+   * If this is your first use of Rev C 3PS, then it is better to use the dedicated tophat for 3PS ([a]Triple_Decky_Tophat-integrated_3PS_C6_3.stl).
    * Optionally you may want to use the special servo arm with rounded edges (Servo Arm MG90S_for_3PS.stl or Servo_Arm_Savox_for_3PS.stl) .
    * **Software parameters** 
      * Add "servo_move_angle: (move position angle)" in mmu_parameters.cfg
