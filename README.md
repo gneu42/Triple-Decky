@@ -64,20 +64,20 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 For each block you need :  
   * #### Rev B.
     * 1 M3x8 SHSC (to mount the base on the 2020 extrusion)
-    * 1 M3x18 SHSC (to mount the latch on the base)
+    * 1 M3x16 SHSC (to mount the latch on the base)
     * 2 6x3 magnets (between the base and the filament path)
     * 1 ECAS (on the filament path)
     * 1 set of BMG (on the D-shaft in the base and in the top hat)
   * #### Rev C magnet release trap.
     * 1 M3x8 SHSC (to mount the base on the 2020 extrusion)
-    * 1 M3x18 SHSC (to mount the latch on the base)
+    * 1 M3x16 SHSC (to mount the latch on the base)
     * 1 M3x3 set screw. Length: from 2 to 3mm (to install in the trap) (M3x2 can be found in BMG).
     * 3 6x3 magnets (between the base and the filament path and at the back of the filament path)
     * 1 ECAS (on the filament path)
     * 1 set of BMG (on the D-shaft in the base and in the top hat)
   * #### Rev C 3 positions servo release trap.
     * 1 M3x8 SHSC (to mount the base on the 2020 extrusion)
-    * 1 M3x18 SHSC (to mount the latch on the base)
+    * 1 M3x16 SHSC (to mount the latch on the base)
     * 1 M3x3 set screw. Length: from 2 to 3mm (to install in the trap) (M3x2 can be found in BMG).
     * 2 6x3 magnets (between the base and the filament path)
     * 1 ECAS (on the filament path)
