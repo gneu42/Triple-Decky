@@ -141,9 +141,15 @@ For each block you need :
   
        <p align=center><img src="Images/Magnet.JPG" width="150" alt="Magnet.JPG"><img src="Images/C6-magnets.JPG" width="450" alt="C6-magnets.JPG"></p>
 
+  * Assembling video.
+   <p align=center><a href="https://youtu.be/SpWfUNTKa9g" target="_blank"><img src="Images/Assembling.JPG" alt="Cutter Preview" width="60%" border="10" /></a>  
+
+
+
 <font size="2">[Summary](#summary)
+
 ***
- ## Triple Decky for Sturdy Bunny build on a 2020 extrusion 
+## Triple Decky for Sturdy Bunny build on a 2020 extrusion 
  ### Triple Decky Rev C
    **It is an evolution of Rev B. with the following new features.**
    *  It has a kind of brake to press against the filament when the gate is not selected. The exit side of the filament path can lift up about 0.5 mm, enough to make the filament touching the brake part (trap). To release the brake it will use either :
@@ -154,6 +160,8 @@ For each block you need :
    *  The use of the old magnetic gates will be **impossible** on that version.
    *  If you are using Happy Hare software, you should decrease the "parking_distance" in the ercf_parameters to about 15 so the filament parks inside the trap.
    *  It is normal that the filament does not pass the trap when inserted manually. When the gate will be selected, Happy Hare will load it without problem. If you want to lock it inside the trap, than you need to push down the exit side of the filament path with your finger and insert the filament about 5 mm further.<p>
+
+
 
 <font size="2">[Summary](#summary)
 ***  
