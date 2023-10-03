@@ -142,7 +142,7 @@ For each block you need :
        <p align=center><img src="Images/Magnet.JPG" width="150" alt="Magnet.JPG"><img src="Images/C6-magnets.JPG" width="450" alt="C6-magnets.JPG"></p>
 
   * Assembling video.
-   <p align=center><a href="https://youtu.be/SpWfUNTKa9g" target="_blank"><img src="Images/Assembling.JPG" alt="Cutter Preview" width="60%" border="10" /></a>  
+   <p align=center><a href="https://www.youtube.com/watch?feature=player_embedded&v=SpWfUNTKa9g" target="_blank"><img src="Images/Assembling.JPG" alt="Cutter Preview" width="60%" border="10" /></a>  
 
 
 
