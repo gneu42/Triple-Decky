@@ -86,13 +86,13 @@ For each block you need :
    <font size="2">[Summary](#summary)
 *** 
 ## **Printing tips:**
-  * Make sure your printer is well tuned, especially the first layer height. If it is too thick, the brake (trap) will be too thick and will not move freely inside the filament path.
+  * Make sure your **printer is well tuned**, especially the first layer height. If it is too thick, the brake (trap) will be too thick and will not move freely inside the filament path.
   * All STL were tested OK with ABS and ABS+ 
   * Use voron standard print profile ( I use Andew Ellis ABS print profile).
   * The 3 main parts are fitting together using a kind of hinge. They should fit together without filing and with a little bit of play. 
-  * Make sure that the rectangular hole in the filament path Rev C is clean so the trap/brake can fit loosely in. There should be 0.5mm clearance.
   * For unknown reason, Super Slicer and Prusa slicer reports 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
-  * Make sure you have "Thin wall" enable, otherwise you won't have supports. Set also the speed for thin wall around 50% of the external perimeter speed.<p> <font size="2">[Summary](#summary)
+  * Make sure you have "Thin wall" enable, otherwise you won't have supports. Set also the speed for thin wall around 50% of the external perimeter speed.
+  * It is also better to print a few spare traps. The sides are quiet thin, and it could be possible to break one if you remove the filament path too often.<p> <font size="2">[Summary](#summary)
 ***
 ## **Cleaning tips:**
   * All support should come off very easily.
@@ -100,6 +100,7 @@ For each block you need :
     * Using a 2mm drill bit, clean the filament path
     * using a needle file, clean the rectangular hole where the trap is going in on the filament path
     * The trap part should have a thickness of 3.05mm, use a file to make it <= 3.05mm or tune your first layer.
+    *  Make sure that the rectangular hole in the filament path Rev C is clean so the trap/brake can fit loosely in. There should be 0.5mm clearance.
     * On the screw trap part you need to make sure that there are no plastic between the thread of the set screw and the filament. Use a sharp x-acto knive to open the space between the 2 holes.
    
     <p align=center><img src="Images/C-trap.JPG" width="250" alt="C-trap.JPG"></p>
@@ -213,7 +214,7 @@ This is an update from Rev C5 that fixes the following issues:
    * The taps are the same for both Rev C versions (Traps folder).
    * If you are already using the magnet version, you can still use it if you print the universal tophat ([a]Triple_Decky_Tophat-integrated_Universal_Mag&3PS_C6_3.stl). **DO NOT USE THIS STL IF YOU DO NOT HAVE ENABLED THE 3rd POSITIONS FOR SERVO IN YOUR SOFTWARE!!!** <br> **You must have the servo_move_angle defined in the mmu_parameters.cfg**
    * If this is your first use of Rev C 3PS, then it is better to use the dedicated tophat for 3PS ([a]Triple_Decky_Tophat-integrated_3PS_C6_3.stl).
-   * Optionally you may want to use the special servo arm with rounded edges (Servo Arm MG90S_for_3PS.stl or Servo_Arm_Savox_for_3PS.stl) .
+   * For better results, you should use the special servo arm with rounded edges for this repo (Servo Arm MG90S_for_3PS.stl or Servo_Arm_Savox_for_3PS.stl) .
    * **Software parameters** 
      * Add "servo_move_angle: (move position angle)" in mmu_parameters.cfg
        * **For MG90S**
@@ -228,20 +229,22 @@ This is an update from Rev C5 that fixes the following issues:
          
       * Change the "encoder_parking_distance:" in mmu_parameters.cfg so the filament parks in the trap. (for me I change it to 15, it was 23) 
   
-   * **Servo positions**
-      * Servo Up. (trap released / print without sync)
+   * **Servo positions**<br>
+      Make sure to adjust the 3 position of your servo arm so the arn does not hit the tophats when the selector is moving. See picture below to fiind out where the position should be for the 3 positions.
+  
+       * Servo Up. (trap released / print without sync)
   
        <p align=center><img src="Images/Servo-up.JPG" width="250" alt="Servo-up.JPG"></p>
 
-      * Servo Move. (trap locked / selector movement)
+       * Servo Move. (trap locked / selector movement)
 
        <p align=center><img src="Images/Servo-move.JPG" width="250" alt="Servo-move.JPG"></p>
 
-      *  Servo Down. (trap released for Load/unload or print with sync mode)
+       *  Servo Down. (trap released for Load/unload or print with sync mode)
   
        <p align=center><img src="Images/Servo-down.JPG" width="250" alt="Servo-down.JPG"></p>      <p>
  
-  * **Servo geometry for 3 positions servo** 
+  * **Servo arm geometry for 3 positions servo** <br>
       The servo arm is based on the Springy servo arm. To have a better effect when using the 3 positions servo, the geometry is modified as shown on the picture below. The blue area shows the added part. This make the "UP" position pushing a bit more to release the trap. The length is also increased by about 0.3mm in the "DOWN" position. It is, therefore, better to use it with Springy from [@moggieuk](https://github.com/moggieuk/ERCF-Springy/tree/main).
       This version is available for MG90S and Sävox SH-0255-MG in the "Rev_C/Filament_Path_for_3_position_Servo" sub-directory of this repo. 
 
