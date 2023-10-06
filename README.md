@@ -89,6 +89,7 @@ For each block you need :
   * Make sure your **printer is well tuned**, especially the first layer height. If it is too thick, the brake (trap) will be too thick and will not move freely inside the filament path.
   * All STL were tested OK with ABS and ABS+ 
   * Use voron standard print profile ( I use Andew Ellis ABS print profile).
+  * **The hinged parts are the trickiest.** Make a test with one set of parts to see if they fit together freely. Some users have reported that decreasing the "extrusion multiplier" by a few %, makes the parts go together much better. 
   * The 3 main parts are fitting together using a kind of hinge. They should fit together without filing and with a little bit of play. 
   * For unknown reason, Super Slicer and Prusa slicer reports 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
   * Make sure you have "Thin wall" enable, otherwise you won't have supports. Set also the speed for thin wall around 50% of the external perimeter speed.
@@ -142,7 +143,8 @@ For each block you need :
   
        <p align=center><img src="Images/Magnet.JPG" width="150" alt="Magnet.JPG"><img src="Images/C6-magnets.JPG" width="450" alt="C6-magnets.JPG"></p>
 
-  * Assembling video.
+  * Assembling video.<br>
+  This video shows how parts fits together out of the printer without any filing nor sanding. Then how Triple Decky works with one pair of magnets and the movement you should have at the back and front side. And finally how to install the trap.
    <p align=center><a href="https://www.youtube.com/watch?feature=player_embedded&v=SpWfUNTKa9g" target="_blank"><img src="Images/Assembling.JPG" alt="Assembling" width="60%" border="10" /></a>  
 
 
