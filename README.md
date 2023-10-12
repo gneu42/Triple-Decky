@@ -27,6 +27,37 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 * **[Triple Decky for ERCF 1.1](#triple-decky-for-ercf-v1)**
 ***
 ## Latest updates.
+* #### Triple Decky C7.0 <sub>*Oct 11, 2023*</sub>
+
+  Revision C7.0 brings a few changes to the 3 main parts of Triple Decky. 
+  * The big change is on the tophat that gives 2 alternatives. 
+    * In one single part with a better support
+    * In 2 parts with one support only. The 2 parts are screwed together with M2x10 self tapping screws.
+    * This new revision applies only to the 3 positions servo. I will not be compatible with encoder that has the old magnets that were opening the gates on ERCF V1.1
+  * The filament path has 2 main changes 
+    * It width is reduced by 1 layer (0.2mm) to make sure that they do not rub against each other in case the blocks are installed too tight together.
+    * The main support geometry is changed to be easier to print and removed.
+    * Two optional clearance versions are available in the clearance option folder. This should make it easier to print with "not too well" tuned printers.
+      * the female hinge of Clearance1 is 0.1mm wider than the default part.
+      * the female hinge of Clearance2 is 0.2mm wider than the default part.
+  * The base has no significant changes beside the 2 clearance options. Also available in the clearance options folder.
+  * Tag plates are now available up to 15 gates.
+
+  ##### Tophats C7.0   
+
+<p align=center><img src="Images/TophatC70.JPG" width="250" alt="TophatC70.JPG"> <img src="Images/TophatC70ab.JPG" width="240" alt="TophatC70ab.JPG"></p>
+
+
+On the clearance option parts, there are 1 or 2 dots beside the code "C7.0" for the 0.1mm and 0.2mm wider cavities.
+
+  ##### Filament Path C7.0
+  
+<p align=center><img src="Images/TDFP-C70.JPG" width="200" alt="TDFP-C70.JPG"> <img src="Images/TDFP-C70-C1.JPG" width="200" alt="TDFP-C70-C1.JPG"> <img src="Images/TDFP-C70-C2.JPG" width="220" alt="TDFP-C70-C2.JPG">
+<p align=center><img src="Images/FP-C0.JPG" width="170" alt="FP-C0.JPG"> <img src="Images/FP-C1.JPG" width="200" alt="FP-C1.JPG"> <img src="Images/FP-C2.JPG" width="200" alt="FP-C2.JPG">
+
+  ##### Base C7.0
+
+<p align=center><img src="Images/TD-Base-C70.JPG" width="200" alt="TD-Base-C70.JPG"> <img src="Images/TD-Base-C70-C1.JPG" width="200" alt="TD-Base-C70-C1.JPG"> <img src="Images/TD-Base-C70-C2.JPG" width="220" alt="TD-Base-C70-C2.JPG">
 
 * #### Triple Decky Base C6.3. <sub>*Aug 31, 2023*</sub>
   
@@ -81,7 +112,8 @@ For each block you need :
     * 1 M3x3 set screw. Length: from 2 to 3mm (to install in the trap) (M3x2 can be found in BMG).
     * 2 6x3 magnets (between the base and the filament path)
     * 1 ECAS (on the filament path)
-    * 1 set of BMG (on the D-shaft in the base and in the top hat)<p>
+    * 1 set of BMG (on the D-shaft in the base and in the top hat)
+    * Optional : 2 M2x10 self tapping screws for the 2 parts tophat.<p>
    
    <font size="2">[Summary](#summary)
 *** 
@@ -93,7 +125,16 @@ For each block you need :
   * The 3 main parts are fitting together using a kind of hinge. They should fit together without filing and with a little bit of play. 
   * For unknown reason, Super Slicer and Prusa slicer reports 6 open edges on the filament path STL. **DO NOT try to fix it**, otherwise you will have support that are filled up with infill and more than one perimeter thick. 
   * Make sure you have "Thin wall" enable, otherwise you won't have supports. Set also the speed for thin wall around 50% of the external perimeter speed.
-  * It is also better to print a few spare traps. The sides are quiet thin, and it could be possible to break one if you remove the filament path too often.<p> <font size="2">[Summary](#summary)
+  * It is also better to print a few spare traps. The sides are quiet thin, and it could be possible to break one if you remove the filament path too often.
+  * If you plan to print the tag plates in multicolor :
+    * You already have a working ERCF, then no problem, just print them before assembling ERCF V2
+    * This is your first ERCF build. Then you have 2 possibilities.
+      * You can print them multicolor the old way, by changing color manually. The change of color is only 4 layers high, so it is not so difficult.
+      * You can print them after you have your new ERCF V2 working, and install them.
+        * On the base, you will have to shift each of the bases to allow the insertion of the tag plate
+        * On the Filament Path, just remove it, insert the tag plate and re-install the Filament Path. <p>
+  
+   <font size="2">[Summary](#summary)
 ***
 ## **Cleaning tips:**
   * All support should come off very easily.
