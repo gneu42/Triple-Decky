@@ -28,7 +28,7 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 ***
 ## Latest updates.
 * #### Triple Decky C7.0 <sub>*Oct 11, 2023*</sub>
-
+**<p align=center>If this is your first time printing Triple Decky, it is best to print the C7.0 version. However if you have already printed the C6.3 parts, and they are freely working together, there is no benefit to upgrade to C7.0.<br> C7.0 tries to fix some small problems that very few peopole have encounter.</p>**
   Revision C7.0 brings a few changes to the 3 main parts of Triple Decky. 
   * The big change is on the tophat that gives 2 alternatives. 
     * In one single part with a better support
