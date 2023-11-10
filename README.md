@@ -33,7 +33,7 @@ For people who needs a bypass block, there will be one incorporated in the "fila
   * The big change is on the tophat that gives 2 alternatives. 
     * In one single part with a better support
     * In 2 parts with one support only. The 2 parts are screwed together with M2x10 self tapping screws.
-    * This new revision applies only to the 3 positions servo. I will not be compatible with encoder that has the old magnets that were opening the gates on ERCF V1.1
+    * This new revision applies only to the 3 positions servo. It will not be compatible with encoder that has the old magnets that were opening the gates on ERCF V1.1
   * The filament path has 2 main changes 
     * It width is reduced by 1 layer (0.2mm) to make sure that they do not rub against each other in case the blocks are installed too tight together.
     * The main support geometry is changed to be easier to print and removed.
@@ -155,6 +155,7 @@ For each block you need :
        <font size="2">[Summary](#summary)
 ***
 ## **Assembling tips:**
+**For all Triple Decky versions, when installing the blocks on the 2020 extrusion, it is not necessary to press the blocks firmly together. Just install them on the 2020 extrusion next to each other and tighten the screw. If you press them too much together, it is possible the filament pass does not move freely between their neighbors. This problem is solved in Revision C7.0**
   * Rev B is self explanatory. The 3 parts goes together by sliding the tangs into the correponding cavities that makes the hinges.
   * Rev C need a bit more attention to assemble the filament path on the base.
     * 1. Insert the M3x8 SHCS screw into the side hole of the base before installing the filament path. You will be able to access the screw through the filament pass later. (If you want to use 4 magnets, than you need to install the base on the 2020 extrusion before installing the magnets and filament path. 4 magnets are normally not necessary.)
