@@ -23,7 +23,7 @@
    * Place the magnet in the hole.<p align=center><img src="../../../../../Images/C9S-magnet63.JPG"  alt="C9_tophat_snap.JPG"> </p>
    * Keeping the magnet in place with your finger, turn the filament path on its side.<p align=center><img src="../../../../../Images/C9S-FP-side.JPG"  alt="C9_tophat_snap.JPG"> </p>
    * Install the switch, and remove the filament. The pre-gate sensor is ready. You can install the filament path on its base.<p align=center><img src="../../../../../Images/C9S-switch.JPG"  alt="C9_tophat_snap.JPG"> </p>
- * **Remove the insert.**
+ * **Removing the insert.**
    Since all parts are made from plastic, it is possible that the insert and the interface plate must be replaced at a certain point of time. 
    * Remove the ECAS or magnet entry
    * Remove the switch and the magnet.
