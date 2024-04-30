@@ -5,7 +5,7 @@
 * To solve the problem on the filament path, a special "notch mask" was developed, so the ball never comes in contact with the filament, thus can't fall in the notch and give false triggering.
   * A flat piece is placed between the filament and the ball to make the notch invisible to the ball. To make that device more stable, the ball is replaced with a 6x3 magnet.<p align=center><img src="../../../../../Images/C9S-insert-cutout1.JPG"  alt="C9S-insert-cutout1.JPG"> </p>
   * For easy installation, an insert is slid together with the interface plate in the filament path. An opening is made on the side of the filament path, so the insert can be removed easily with a 2mm allen key.<p align=center><img src="../../../../../Images/C9S-remove.JPG"  alt="C9S-remove.JPG"> </p>
-  * Since the pre-gate sensor applies a bit of tension on the filament, it is recommended to print the insert and the interface plate in a slippery filament like PETG.
+  * Since the pre-gate sensor applies a bit of tension on the filament, it is recommended to print the insert and the interface plate in a hard and slippery filament.
 
  ## How to install and remove it.
  * **What you need :** <p align=center><img src="../../../../../Images/C9S-parts.JPG"  alt="C9S-parts.JPG"> </p>
@@ -17,7 +17,7 @@
    * 2 M2x10 screws
  * **Installation :** 
    * Insert a small piece of filament in the insert.<p align=center><img src="../../../../../Images/C9S-insert-filament.JPG"  alt="C9S-insert-filament.JPG"> </p>
-   * Place the insert with the opening up, and drop the interface plate in the opening with the small wings up.<p align=center><img src="../../../../../Images/C9S-insert-interface.JPG"  alt="C9S-insert-interface.JPG"> </p>
+   * Place the insert with the opening up, and drop the interface plate in the opening with the small wings up. The interface plate is provided in 3 different thicknesses (0.7, 0.8 and 0.9mm) for easy adjustment of the behavior of the switch.<p align=center><img src="../../../../../Images/C9S-insert-interface.JPG"  alt="C9S-insert-interface.JPG"> </p>
    * Insert the whole assembly in the filament path. The 2mm hole first.<p align=center><img src="../../../../../Images/C9S-insert-FP.JPG"  alt="C9S-insert-FP.JPG"> </p>
    * Push the insert fully in with a 8mm rod (x-acto knive, or 8mm drill). Make sure you see the interface plate through the magnet hole.<p align=center><img src="../../../../../Images/C9S-8mm.JPG"  alt="C9S-8mm.JPG"> </p>
    * Place the magnet in the hole.<p align=center><img src="../../../../../Images/C9S-magnet63.JPG"  alt="C9S-magnet63.JPG"> </p>
