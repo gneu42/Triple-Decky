@@ -27,6 +27,10 @@ For people who needs a bypass block, there will be one incorporated in the "fila
 * **[Triple Decky for ERCF 1.1](#triple-decky-for-ercf-v1)**
 ***
 ## Latest updates.
+
+* #### Savox Servo arm C9 for original horn <sub>*May 28, 2024*</sub>
+  * This servo arm uses the original 4  branches horn delivered with the Savox servo.
+   <p align=center><img src="Images/SVX-servo-arm-SVX-horn.JPG" width="350" alt="SVX-servo-arm-SVX-horn.JPG"><img src="Images/servo-arm-with-horn.JPG" width="350" alt="servo-arm-with-horn"><img src="Images/savox-horn.JPG" width="350" alt="savox-horn.JPG"> </p>
 * #### Triple Decky C9.x <sub>*Apr 27, 2024*</sub>
 **<p align=center>If this is your first time printing Triple Decky, it is best to print the C9.x version. However if you have already printed the C7.x parts, and they are freely working together, there is no benefit to upgrade to C9.<br> </p>**
 <p align=center><img src="Images/C9_full.JPG" width="250" alt="C9_tophat_snap.JPG"> </p>
