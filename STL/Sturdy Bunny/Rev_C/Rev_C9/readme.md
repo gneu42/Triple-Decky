@@ -7,10 +7,10 @@
     * The trap design is modified to accommodate the support free base. It is now connected to the base with an M2x10 screw.<p align=center><img src="../../../../Images/C9-trap.JPG" width="250" alt="C9_trap.JPG"> </p>
     * The tophat has a lower profile than the previous version. This should fix the servo down problem that some users have encountered.
     * There is an optional tophat with snap-in BMG.<p align=center><img src="../../../../Images/C9_tophat_snap.JPG" width="250" alt="C9_tophat_snap.JPG"> </p>
-    * There are 2 optional versions of C9 called C9S which incorporate a pre-gate sensor Those versions are made for people with limited space and that does not want to use the Cotton Tail full or pre-gate version.
+    * **EXPERIMENTAL**. There are 2 optional versions of C9 called C9S which incorporate a pre-gate sensor Those versions are made for people with limited space and that does not want to use the Cotton Tail full or pre-gate version.
       * These versions of pre-gate sensor is optimized to avoid false triggering if the filament have a notch ground from previous bad load.
       * The 5.5mm ball is replaced by a 6x3mm magnet for more stability of the anti-false triggering device.
-      * Although this version works very well for automatic insertion of the filament supported by Happy Hare, it may or may not work well for endless spool. 
+      * Although this version works very well for automatic insertion of the filament supported by Happy Hare, **it may or may not work well for endless spool**. 
       * One version uses an ECAS to hold the PTFE tube.<p align=center><img src="../../../../Images/C9S_ecas.JPG" width="250" alt="C9_tophat_snap.JPG"> </p>
       * The other uses magnets to hold the PTFE in the filament path.<p align=center><img src="../../../../Images/C9S_magnet.JPG" width="250" alt="C9_tophat_snap.JPG"> </p>
   
